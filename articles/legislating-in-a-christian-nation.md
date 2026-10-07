@@ -1,0 +1,51 @@
+---
+title: Legislating in a Christian Nation
+slug: legislating-in-a-christian-nation
+date: 2019-03-22
+id: 516
+link: https://drthomasforpresident.com/2019/03/legislating-in-a-christian-nation/
+status: publish
+protected: false
+categories:
+  - Politics > Christianity in Politics
+  - Politics > Legislation
+  - Politics
+---
+
+by Thomas Lee Abshier, ND
+
+The Founders intended that America be a Christian Nation, and they intended that we legislate social behavior using the standards of Biblical principle. But, they erected a Constitutional wall against Congress establishing a single denomination as a State religion. The Bible is a collection of divinely inspired viewpoints about God and His relationship to Man and Society. But, the multiple writers, contexts, and eras make it easy to derive many possible interpretations from the Bible. As a result, many denominations have arisen to support a particular perspective about Biblical truth. The ambiguity about the perfect Christian doctrine is one important reason why a particular interpretation of scripture or system or interpretation (denominational creed) should not be given a place of legally established superiority.
+
+The Founders saw the tendency of the human heart to engage in control and domination in the name of God. This was clearly evidenced by the corruption of the Church of England. This abuse was foremost in the minds of the Founders when James Madison penned the First Amendment, forbidding the establishment of a national religion by Congress. This prohibition was not meant to prevent any and all religious expression in government, but rather to prevent a single creed or denomination of Christianity from using the power of the State to enforce compliance to a single denominational doctrine.
+
+The Founders’ writing clearly expresses the desire to place Christianity as the moral underpinning of law and culture. The challenge they faced was to walk that central path between a secular humanist Godless society and a theocratic State. Thus, they chose to simply prohibit the State from establishing a religion, while encouraging the populace to practice religion as they saw fit according to dictates of individual conscience. Their intent to create a Christian culture and integrate it into the mechanisms of State was clearly illustrated by their writings, speeches, and acts of the Founders and the 18th & 19th Century Congress. The vast majority of the Founders were evangelical Christians, and it was their intent that America continue to embrace the God of the Bible.
+
+As a Christian nation, we are tolerant of other religions, denominations, and personal belief systems. Each person is accountable to God for his/her beliefs. But, this does not mean that the belief system of the individual is irrelevant to the society. The influence of society on the individual and the individual on society is unavoidable; the fabric of a nation will be colored, shaded, and textured by those who populate that society. It is to society’s benefit to be populated with Godly people, each internally driven to honor the rights of self and others. Such a culture is mature, peaceful, and self-governing. Little governmental guidance of personal and group behavior is needed because every person has the eternal and Absolute Law embedded in his/her own heart.
+
+James Madison said, "Religion is the basis and Foundation of Government… We have staked the whole future of American civilization, not upon the power of government, far from it. We have staked the future of all of our political institutions upon the capacity of mankind for self-government; upon the capacity of each and all of us to govern ourselves, to control ourselves, to sustain ourselves according to the Ten Commandments of God."
+
+Even though the Founders allowed the people of all faiths to live in America, the society was to govern itself under the principles of Christianity. The Constitution is our foundational societal agreement and having been based on Christian principles, the laws extended from it will likewise be based on Christianity. The Muslim, Jew, Hindu, and Buddhist are welcome to live in our society and call it their home, but the implicit agreement is that all are subject to the laws which are in turn based on the principles of Christianity. Everyone who came to this country must know the principles and basis upon which our society governs its social interactions. Thus, the standards of Biblical Christianity must be taught in the schools, as was done until banned in 1962, so that all citizens know the theory and basis for the standards by which they are to govern themselves in a Christian society.
+
+Montesquieu wrote: "Society, notwithstanding all its revolutions, must repose on principles that do not change." "The Christian religion, which ordains that men should love each other, would without doubt have every nation blest with the best civil, the best political laws; because these, next to this religion, are the greatest good that men can give and receive."
+
+When the hearts of the people are united to the Way of Christ, government can maximize its progress in its function to “form a more perfect union, establish justice, insure domestic tranquillity, provide for the common defense, promote the general welfare, and secure the blessings of liberty…” as stated in the Preamble to the Constitution.
+
+As a Christian nation, which holds that the Bible and the Spirit of Jesus reflect and embody the pinnacle of God’s Truth, it is appropriate to legislate based upon the precepts of Christ. While society tolerates the individual practice of religions other than Christianity, it is not appropriate to allow those of other moral systems to be given the reigns of control to shape the laws which govern the behaviors of the whole.
+
+God does not impose a religion on us, He allows us all to choose freely, but I believe He desires that all choose the most excellent way, the way of Christ Jesus. While we are to allow each person to choose his/her religion, this does not mean we must embrace it, nor should we fear speaking openly of our faith and fear inviting the unbeliever to join us. The invitation to join is not an offense, but legislating a personal relationship with the unseen God under threat of force is a violation of the soul.
+
+Every law reflects a moral foundation, a belief about what is right and wrong and how the world should work. Every law is an attempt to limit human behavior and apply boundaries. Given our Christian heritage, and the fact that the nation is currently populated by people of many religions, it is imperative that the Christian voice be overtly considered and preferred in the public debate.
+
+Everson v. Board of Education, 1947, introduced the concept of a complete “Separation of Church and State.” Such a concept had never been known or implemented in the 171 years of the nation’s history. Such a concept could not be justified in terms of it being literally Constitutional. Rather, the court fabricated it as a plausible principle of Constitutional intent, and used their improperly usurped authority as the final word in matters of legislation. By creating a new Constitutional principle, and then basing future judgments upon this ruling, the Constitution was thereby amended and its new precepts enforced.
+
+On the basis of Marburg Vs. Madison, 1804, the Court has justified its authority as being the final judge on all matters Constitutional, even though the Congress and Executive Branch did not consent, agree, nor comply with that ruling. Only recently has Congress relinquished its Constitutional prerogative to give the Court only that jurisdiction it deems appropriate.
+
+Article III, Section 1: The judicial power of the United States shall be vested in one Supreme Court and in such inferior Courts as the Congress may from time to time ordain and establish. … In all cases affecting Ambassadors, other public Ministers and Consuls, and those in which a State shall be party, the Supreme Court shall have original jurisdiction. In all other cases before mentioned, the Supreme Court shall have appellate jurisdiction both as to law and fact with such exception and under such regulations as the Congress shall make.
+
+Congress must reassert their authority over the Court and pass legislation to limit the authority of the Supreme Court in matters regarding the connection of the State in its relationship to God and the inclusion of Christian principle and ceremony in matters of government. Such is the principle and essence of HR 3799, the Constitution Restoration Act of 2004.
+
+`Notwithstanding any other provision of this chapter, the Supreme Court shall not have jurisdiction to review, by appeal, writ of certiorari, or otherwise, any matter to the extent that relief is sought against an element of Federal, State, or local government, or against an officer of Federal, State, or local government (whether or not acting in official personal capacity), by reason of that element's or officer's acknowledgment of God as the sovereign source of law, liberty, or government.'.
+
+Christianity has clearly been the dominant religion of the populace for the past two centuries of our nationhood. The Founding Fathers intended that the government be influenced by the principles of Christianity. It is time to wrest control from the grasp of those who are dedicated to recreating American into a nation whose highest standards are the ideals of Secular Humanism. To maintain the influence of Christian principle on our law and culture, it is appropriate that Congress recognize the appropriate place of authority of Christianity in relationship to other religions as a philosophical force in the shaping of law.
+
+Government usually generates legislation because of an experienced violation of person or property. The pain of violation is a reflection of the violation of a higher moral law. The legislature’s job is to engage in vigorous debate about the standards of proper behavior and enact law as a guide to excellent Godly personal and social behavior. It is the job of a righteous legislature to use Biblical moral standards as a guide to the creation of a secular code of conduct.

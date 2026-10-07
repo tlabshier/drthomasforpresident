@@ -1,0 +1,229 @@
+# Category Index
+
+- **Culture** (22)
+  - **Books/Literature** (2)
+  - **Historical Events**
+  - **Humor**
+  - **Manners, Customs, Social Graces** (2)
+  - **Movies**
+  - **Music**
+    - **Lyrics**
+    - **Music Theory**
+    - **Musicians**
+  - **Personal** (3)
+    - **Adventures**
+    - **Hobbies**
+  - **Quotes** (12)
+  - **Recreation**
+    - **Sports**
+    - **Travel**
+  - **Social Movements**
+- **Defense** (3)
+  - **Army**
+  - **Foreign Policy**
+  - **Naval Power**
+  - **Negotiation from Strength**
+  - **Nuclear Deterrence**
+  - **Special Operations**
+  - **Sun Tzu – Art of War**
+  - **Wars**
+- **Economics** (26)
+  - **AI/Robot Competition** (1)
+  - **Banking**
+  - **Capitalism** (6)
+  - **Communism**
+  - **Economy and Money**
+  - **Exchange Rate**
+  - **Federal Reserve** (1)
+  - **Foreign/Low Wage Competition**
+  - **Gold-Silver-Based Currency** (1)
+  - **Homelessness**
+  - **Inflation**
+  - **Interest Rates**
+  - **Investing** (2)
+  - **Keynesian Theory/Great Depression**
+  - **Libertarian/Capitalist/Von Mises Theory**
+  - **Money** (9)
+  - **Monopoly**
+  - **Repeal the 16th Amendment – Eliminate the Income Tax**
+  - **Small Business vs. Large Business**
+  - **Socialism** (2)
+  - **Underground Economy**
+  - **Work** (4)
+- **Education** (3)
+  - **AI Directed Learning and Customized Education**
+  - **Counseling/Healing Trauma**
+  - **Discipline in Classroom**
+  - **Government Directed vs. Parent-Directed Education**
+  - **Integration of Bible and Prayer into School**
+  - **Interest-Based Education**
+  - **Learning Research**
+  - **Memorization vs. Derivation/Rationality/Cause-Based Learning**
+  - **Place of Education, Thinking, and Human Labor in an AI-Robotic World**
+  - **Teacher Accountability to Parents**
+  - **Teaching Creativity**
+  - **Tutoring and Mentorship**
+  - **Web-Based Learning Direction**
+- **Energy**
+  - **Fission**
+  - **Fossil**
+  - **Fussion**
+  - **Geothermal**
+  - **Hydro**
+  - **LENR**
+  - **Solar**
+  - **Wind**
+- **Environment**
+  - **Chemicals**
+  - **Energy**
+  - **Forest Management**
+  - **Soil Erosion**
+  - **Waste Disposal**
+  - **Water**
+  - **Wildlife/Endangered Species**
+- **Evil** (2)
+  - **Government-Based Evil**
+    - **Assassination of JFK and RFK**
+  - **Human Passion-Based Evil** (1)
+    - **Prostitution, Sex Trafficking**
+  - **Ideology-Based Evil** (2)
+    - **Satanism, Globalism, Love of Power, Belief in Satanic Doctrines** (1)
+  - **Money-Based Evil**
+    - **Government-Corporate Collusion/Agency Capture**
+    - **Government/Corporate Cancelling of Speech Unfavorable to Program/Product**
+    - **Mafia - Extortion, Drug Cartels, Threats, Assassination**
+- **Foundations** (3)
+- **Founding Fathers** (15)
+  - **Constitution &amp; Bill of Rights**
+- **Law Enforcement** (2)
+  - **Broken Window Policing**
+  - **Corruption**
+  - **Mafia/Cartels/Organized Crime**
+  - **Prison**
+  - **Rehabilitation**
+  - **The Criminal Mind**
+  - **War on Drugs**
+- **Media** (2)
+  - **Media Bias** (1)
+- **Medicine** (2)
+  - **Allopathic Medicine** (1)
+    - **Diseases**
+    - **Drugs**
+    - **Gene Therapy**
+    - **Physiology**
+    - **Research**
+    - **Side Effects**
+    - **Surgery**
+    - **Therapies**
+    - **Vaccines**
+  - **Naturopathic Medicine** (1)
+    - **Modalities**
+    - **Philosophy of Healing**
+    - **Research**
+- **News**
+  - **Current Events**
+- **Newsletters**
+- **Philosophy** (3)
+  - **Existence** (1)
+  - **God and Man** (1)
+  - **Government**
+  - **Moral Principles** (1)
+  - **Morality**
+  - **Religion**
+- **Politics** (163)
+  - **Christianity in Politics** (61)
+  - **Conspiracies** (2)
+    - **Bilderberger, CFR**
+    - **Cancelling**
+    - **Globalism**
+    - **Illuminati** (2)
+    - **UFO Coverup**
+    - **Vax**
+  - **Controversial Positions**
+  - **Executive Orders**
+  - **God, Jesus, and the Bible in American Policy** (1)
+  - **Godly Human Sexuality** (16)
+  - **History of Law**
+  - **Judicial Opinions**
+  - **Judiciary** (3)
+  - **Laws** (1)
+  - **Left Wing Issues** (17)
+  - **Legislation** (5)
+  - **Libertarian Politics** (34)
+  - **Parties**
+  - **Passed Legislation**
+  - **Platform** (3)
+  - **Political Science** (1)
+    - **Anarcho-Capitalism**
+    - **Communism**
+    - **Democracy**
+    - **Libertarianism**
+    - **Monarchy**
+    - **Oligarchy**
+    - **Republic**
+    - **Socialism**
+    - **Techno-Feudalism**
+  - **Political Topics** (5)
+  - **Politicians** (2)
+  - **Politics of Economics** (5)
+  - **Presidents**
+  - **Proposed Legislation** (2)
+  - **State Laws**
+  - **The Coalition** (2)
+- **Psychology** (8)
+  - **Counseling** (4)
+  - **Freudian Psychotherapy**
+  - **Jungian**
+  - **Nature of Humanity**
+  - **Rogerian Counseling**
+  - **Theories of Mind/Brain**
+  - **Therapies** (2)
+- **Science** (4)
+  - **Artificial Intelligence and Robotics** (2)
+    - **Application to Art, Literature, Science**
+    - **Application to Production**
+    - **The Meaning of Work/Creativity/Income in an Age of AGI and Human-Like Robotics** (1)
+    - **Threat to Labor**
+  - **Conventional Science**
+  - **Experiments**
+  - **Journal Articles**
+  - **Philosophy of Science** (2)
+  - **Physics** (8)
+    - **Newtonian Mechanics** (1)
+    - **Physics and Faith** (6)
+- **Technology** (1)
+  - **Innovation**
+  - **Invention**
+    - **A Key to Transformation is New Ways of Thinking, New Processes, New Objects, and New Theories**
+    - **Expose New Technology and Protect Inventors**
+    - **Government Barriers**
+    - **Lower Market-Competition Barriers to Invention**
+      - **Dedicated Taxes – Tax Dedicated to Inventors of Disruptive Technology**
+      - **Expose Unfair Monopolistic Practices**
+- **Theology** (30)
+  - **Bible** (2)
+    - **Apologetics**
+    - **Chapter Commentary**
+    - **Doctrine** (1)
+  - **Christianity** (21)
+    - **Apologetics** (20)
+  - **Islam** (7)
+  - **World Religion**
+    - **Buddhism**
+    - **Christianity**
+      - **Bible Versions**
+      - **Christian Cults**
+      - **Denominations**
+      - **Doctrinal Variations**
+      - **The General Principles**
+    - **Cults – Personality-Based Religion**
+    - **Hinduism**
+    - **Islam**
+    - **Judaism**
+    - **Kabbalah**
+    - **New Age**
+    - **Shinto**
+    - **Sikhism**
+    - **Yoga**
+    - **Zoroaster**
+- **Uncategorized** (5)
