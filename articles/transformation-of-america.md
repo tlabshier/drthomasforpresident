@@ -1,15 +1,20 @@
 ---
 title: "The Transformation of America by God's Power"
-slug: transformation-of-america
+author: "Thomas Lee Abshier, ND"
 date: 2023-09-29
-id: 2962
-link: https://drthomasforpresident.com/2023/09/transformation-of-america/
-status: publish
-protected: false
-categories:
-  - Politics > Christianity in Politics
-  - Politics > Libertarian Politics
-  - Politics
+slug: transformation-of-america
+module: CEA
+domains: [theology, culture, biblical_studies]
+topics: [pneumatology, governance, heaven_hell, presidential_platform, morality_ethics, gender_sexuality, spiritual_warfare, paul, salvation, sanctification, prayer, baptism, drug_policy, miracles, christian_nation]
+scripture: ["Genesis 1:1", "Psalm 143:10", "Psalm 139:7", "Isaiah 61:1", "Ezekiel 36:27", "Zechariah 4:6", "Matthew 19:17", "Matthew 7:13", "Matthew 22:11", "Matthew 28:19", "Matthew 1:20", "Matthew 12:32", "Matthew 12:31", "Matthew 1:18", "Mark 13:11", "Luke 11:13", "Luke 3:21", "Luke 1:35", "John 9", "John 14:6"]
+mentions: ["Jesus", "Christ", "God the Father", "Holy Spirit", "Isaiah", "Margo"]
+thesis: "Transformation of America by the Power of God Conversation between Thomas, Margo, Joe, and John 9/28/2023 First Conversation: The Power of God to Transform Hearts and Minds Summary: 2 Timothy 3:5 Having a form of godliness, but denying the power thereof: from such turn away."
+status: ESTABLISHED
+type: essay
+source_url: "https://drthomasforpresident.com/2023/09/transformation-of-america/"
+wp_id: 2962
+wp_slug: "transformation-of-america"
+wp_categories: ["Christianity in Politics", "Libertarian Politics", "Politics"]
 ---
 
 **Transformation of America by the Power of God**
