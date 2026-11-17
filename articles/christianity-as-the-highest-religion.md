@@ -1,36 +1,43 @@
 ---
-title: Christianity as the Highest Religion
-slug: christianity-as-the-highest-religion
+title: "Christianity as the Highest Religion"
+author: "Thomas Lee Abshier, ND"
 date: 2019-03-20
-id: 479
-link: https://drthomasforpresident.com/2019/03/christianity-as-the-highest-religion/
-status: publish
-protected: false
-categories:
-  - Theology > Christianity > Apologetics
-  - Theology > Christianity
-  - Theology
+module: CAP
+domains: [theology, philosophy, world_religions]
+topics: [judgment, islam, suffering, angels_demons, protestantism, heaven_hell, free_will, morality_ethics, truth, pneumatology]
+mentions: ["Jesus", "Christ", "God the Father", "Holy Spirit", "Margo"]
+thesis: "By: Thomas Lee Abshier, ND Dr. Tom, I have to hand it to you. I think a lesser man than you would have gotten out of this conversation long ago and would have told me to buzz off."
+status: ESTABLISHED
+type: essay
+source_url: "https://drthomasforpresident.com/2019/03/christianity-as-the-highest-religion/"
+wp_id: 479
+wp_slug: "christianity-as-the-highest-religion"
+wp_categories: ["Apologetics", "Christianity", "Theology"]
 ---
 
+# Christianity as the Highest Religion
+
 By: Thomas Lee Abshier, ND
+
 
 *Dr. Tom,*
 
 *I have to hand it to you. I think a lesser man than you would have gotten out of this conversation long ago and would have told me to buzz off.*
 
-*I have felt considerable judgment and anger, not toward you particularly, but toward today's general tribe of Christian social conservatives. And because of that, there has been an undertone of attack in a lot of what I have said to you in our extended conversation. Sometimes this has been cool and reasoned, sometimes *blunter*. So I apologize for this. There is no excuse for *hostility* that is intended to harm. I guess you provide an open door for me to speak my mind, sometimes eloquent and sometimes just plain venting. Now, having said that I think I have more venting to do.*
+*I have felt considerable judgment and anger, not toward you particularly, but toward today’s general tribe of Christian social conservatives. And because of that, there has been an undertone of attack in a lot of what I have said to you in our extended conversation. Sometimes this has been cool and reasoned, sometimes *blunter*. So I apologize for this. There is no excuse for *hostility* that is intended to harm. I guess you provide an open door for me to speak my mind, sometimes eloquent and sometimes just plain venting. Now, having said that I think I have more venting to do.*
 
 *At the moment, it seems to me that many religious people are just as ignorant as the non-religious. I am now making a sweeping global statement that is intended to include all religions. These ignorant religious people, bless their hearts, commit all the same sins and cause all the same havoc as the non-religious only they use the beliefs and the holy scripture of their religion to cloak the nasty and ignorant nature of their positions.*
 
-*The two most aggressive camps that I am aware of are radical evangelical Christianity and radical Islam. The worst of the Islamic extremists try to defend the purity of their faith by killing their enemies. The worst of the evangelical Christians seek to punish their opponents and dominate everybody else through legislation and exclusion and of course heavy judgmental rhetoric. What I find highly irritating is when these folks dis-own their actions and fail to take responsibility for their actions by claiming that they are doing God's will. "It is not us that judge, but God." This twist of logic is not only obnoxious, but it can be extremely dangerous. When one's motive is split off and dis-owned, it gives license for any kind of behavior imaginable. It can even produce a serial killer.*
+*The two most aggressive camps that I am aware of are radical evangelical Christianity and radical Islam. The worst of the Islamic extremists try to defend the purity of their faith by killing their enemies. The worst of the evangelical Christians seek to punish their opponents and dominate everybody else through legislation and exclusion and of course heavy judgmental rhetoric. What I find highly irritating is when these folks dis-own their actions and fail to take responsibility for their actions by claiming that they are doing God’s will. “It is not us that judge, but God.” This twist of logic is not only obnoxious, but it can be extremely dangerous. When one’s motive is split off and dis-owned, it gives license for any kind of behavior imaginable. It can even produce a serial killer.*
 
-*I was recently thinking of Christ's anguish in the garden of Gethsemane. He seemed especially human during these hours. I believe when people forget or deny Christ's humanity, this also leads to very big trouble. As I understand it, in the human aspect of his life, he felt sadness, he felt anger, and he had doubts. There are those who seem to think that to be a really *top-notch* spiritual being is to have absolute certainty in your faith and in your course of action. This is also very dangerous and spiritually *misguided* in my view. This can produce a *self-righteous* posture that denies reality and is basically stubborn rather than inspired.*
+*I was recently thinking of Christ’s anguish in the garden of Gethsemane. He seemed especially human during these hours. I believe when people forget or deny Christ’s humanity, this also leads to very big trouble. As I understand it, in the human aspect of his life, he felt sadness, he felt anger, and he had doubts. There are those who seem to think that to be a really *top-notch* spiritual being is to have absolute certainty in your faith and in your course of action. This is also very dangerous and spiritually *misguided* in my view. This can produce a *self-righteous* posture that denies reality and is basically stubborn rather than inspired.*
 
-*All the great spiritual beings experience struggle. For those who figure that they have the formula, the right formula, the best formula, the ideal formula for their own self and everybody else too, that is simply arrogance. And that is the primary complaint with the evangelical Christians. I have seen this arrogant attitude up close and personal within myself. When I feel within my heart that I have found something wonderful, I want everybody else to feel the joy that I feel. That's innocent and natural. But when I believe that I know what's best for others, that's not so innocent. I was a member of a large church for seven years that had a global mission. We certainly felt superior to everybody else.*
+*All the great spiritual beings experience struggle. For those who figure that they have the formula, the right formula, the best formula, the ideal formula for their own self and everybody else too, that is simply arrogance. And that is the primary complaint with the evangelical Christians. I have seen this arrogant attitude up close and personal within myself. When I feel within my heart that I have found something wonderful, I want everybody else to feel the joy that I feel. That’s innocent and natural. But when I believe that I know what’s best for others, that’s not so innocent. I was a member of a large church for seven years that had a global mission. We certainly felt superior to everybody else.*
 
-*Okay, this is my speech of the day. If you were to comment on just one of my points, take the point about Christ's humanity.*
+*Okay, this is my speech of the day. If you were to comment on just one of my points, take the point about Christ’s humanity.*
 
 *Steven*
+
 
 Dear Steven,
 

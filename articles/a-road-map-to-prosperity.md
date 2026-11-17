@@ -1,22 +1,27 @@
 ---
-title: A Road Map to Prosperity
-slug: a-road-map-to-prosperity
+title: "A Road Map to Prosperity"
+author: "Thomas Lee Abshier, ND"
 date: 2019-03-23
-id: 553
-link: https://drthomasforpresident.com/2019/03/a-road-map-to-prosperity/
-status: publish
-protected: false
-categories:
-  - Economics > Capitalism
-  - Economics
-  - Politics > Left Wing Issues
-  - Politics
-  - Politics > Politics of Economics
+module: CEA
+secondary_modules: [CHR]
+domains: [economics, politics, culture]
+topics: [governance, economics, constitutional_law, taxation, education, poverty, environmentalism, revolutionary_war]
+thesis: "by Thomas Lee Abshier, ND Government should be the focal forum in the debate on national priorities. Taxes and group purchases (governmental expenditures) are the action-expression of society’s priorities and desires."
+status: ESTABLISHED
+type: essay
+source_url: "https://drthomasforpresident.com/2019/03/a-road-map-to-prosperity/"
+wp_id: 553
+wp_slug: "a-road-map-to-prosperity"
+wp_categories: ["Capitalism", "Economics", "Left Wing Issues", "Politics", "Politics of Economics"]
 ---
+
+# A Road Map to Prosperity
 
 by Thomas Lee Abshier, ND
 
+
 Government should be the focal forum in the debate on national priorities. Taxes and group purchases (governmental expenditures) are the action-expression of society’s priorities and desires. These functions reflect government’s Constitutional mandate to “Promote the General Welfare”.
+
 
 - The application of affordable and plentiful electrical power will allow America (and the world) to address and solve many of the vexing Social/Economic problems facing us:
 
@@ -82,9 +87,10 @@ Government should be the focal forum in the debate on national priorities. Taxes
 
 - The vision of the nation should rise up from a Godly people, and Godly leaders should give that vision a voice and point of focus.
 
-Legislative Goal for Development of Energy Independence:
+- Legislative Goal for Development of Energy Independence:
 
-- Creation of a legal and economic environment favorable to the rapid development and installation of an alternative energy infrastructure.
+
+Creation of a legal and economic environment favorable to the rapid development and installation of an alternative energy infrastructure.
 
 - All the alternative intermediate energy solutions for energy independence should be considered as bridge technologies such as natural gas, methanol, oil shale, and domestic drilling.
 

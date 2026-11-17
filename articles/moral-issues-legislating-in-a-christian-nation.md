@@ -1,18 +1,24 @@
 ---
-title: Moral Issues – Legislating in a Christian Nation
-slug: moral-issues-legislating-in-a-christian-nation
+title: "Moral Issues – Legislating in a Christian Nation"
+author: "Thomas Lee Abshier, ND"
 date: 2019-03-22
-id: 524
-link: https://drthomasforpresident.com/2019/03/moral-issues-legislating-in-a-christian-nation/
-status: publish
-protected: false
-categories:
-  - Politics > Christianity in Politics
-  - Politics > Legislation
-  - Politics
+module: CEA
+secondary_modules: [CHR]
+domains: [politics, culture, history]
+topics: [constitutional_law, governance, education, historical_analysis]
+thesis: "by: Thomas Lee Abshier, ND  America has forgotten its moral and spiritual roots as a Christian Nation."
+status: ESTABLISHED
+type: essay
+source_url: "https://drthomasforpresident.com/2019/03/moral-issues-legislating-in-a-christian-nation/"
+wp_id: 524
+wp_slug: "moral-issues-legislating-in-a-christian-nation"
+wp_categories: ["Christianity in Politics", "Legislation", "Politics"]
 ---
 
+# Moral Issues - Legislating in a Christian Nation
+
 by: Thomas Lee Abshier, ND
+
 
  America has forgotten its moral and spiritual roots as a Christian Nation.
 

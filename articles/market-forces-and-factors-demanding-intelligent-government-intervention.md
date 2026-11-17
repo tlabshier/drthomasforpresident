@@ -1,25 +1,29 @@
 ---
-title: Market Forces and Factors Demanding Intelligent Government Intervention
-slug: market-forces-and-factors-demanding-intelligent-government-intervention
+title: "Market Forces and Factors Demanding Intelligent Government Intervention"
+author: "Thomas Lee Abshier, ND"
 date: 2019-03-23
-id: 549
-link: https://drthomasforpresident.com/2019/03/market-forces-and-factors-demanding-intelligent-government-intervention/
-status: publish
-protected: false
-categories:
-  - Economics > Capitalism
-  - Economics
-  - Politics
-  - Politics > Politics of Economics
+module: CEA
+domains: [culture, politics, economics]
+topics: [technology, economics, governance, environmentalism]
+thesis: "By: Thomas Lee Abshier  The Free Market Economy self-organizes a prosperous mutually beneficial system by simply allowing the individuals comprising the society (people and corporations) to maximize their pleasure and minimize their pain."
+status: ESTABLISHED
+type: essay
+source_url: "https://drthomasforpresident.com/2019/03/market-forces-and-factors-demanding-intelligent-government-intervention/"
+wp_id: 549
+wp_slug: "market-forces-and-factors-demanding-intelligent-government-intervention"
+wp_categories: ["Capitalism", "Economics", "Politics", "Politics of Economics"]
 ---
 
+# Market Forces and Factors Demanding Intelligent Government Intervention
+
 By: Thomas Lee Abshier
+
 
  The Free Market Economy self-organizes a prosperous mutually beneficial system by simply allowing the individuals comprising the society (people and corporations) to maximize their pleasure and minimize their pain. Allowing individual self-determination has proven the most successful model to create a prosperous economy.
 
  The Republican philosophy of government has embraced allowing the market to regulate itself.
 
- Adam Smith's invisible hand has proven to produce the most prosperous nation on earth
+ Adam Smith’s invisible hand has proven to produce the most prosperous nation on earth
 
  The reason for this exceptional success is probably multifactorial
 

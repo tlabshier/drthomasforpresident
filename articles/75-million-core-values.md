@@ -1,17 +1,22 @@
 ---
-title: 75 Million United Core Values
-slug: 75-million-core-values
+title: "75 Million United Core Values"
+author: "Thomas Lee Abshier, ND"
 date: 2024-02-09
-id: 3050
-link: https://drthomasforpresident.com/2024/02/75-million-core-values/
-status: publish
-protected: false
-categories:
-  - Politics > Platform
-  - Politics
+module: CEA
+domains: [politics, culture]
+topics: [education, first_amendment, war_peace, race_relations]
+status: ESTABLISHED
+type: essay
+source_url: "https://drthomasforpresident.com/2024/02/75-million-core-values/"
+wp_id: 3050
+wp_slug: "75-million-core-values"
+wp_categories: ["Platform", "Politics"]
 ---
 
 # 75 Million United Core Values
+
+# 75 Million United Core Values
+
 
 - We believe in the Constitution.
 
@@ -50,5 +55,6 @@ categories:
 - We believe that looting and burning is a crime.
 
 - We believe there is no such thing as White Americans, Black Americans, Brown Americans…just Americans. Period!
+
 
 To support 75 Million United, go to [Link](https://75millionunited.com/75-million-united-core-values)

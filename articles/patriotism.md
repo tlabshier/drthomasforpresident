@@ -1,19 +1,27 @@
 ---
-title: Patriotism
-slug: patriotism
+title: "Patriotism"
+author: "Thomas Lee Abshier, ND"
 date: 2019-03-23
-id: 532
-link: https://drthomasforpresident.com/2019/03/patriotism/
-status: publish
-protected: false
-categories:
-  - Politics > Christianity in Politics
-  - Politics
+module: CEA
+secondary_modules: [CAP, CHR]
+domains: [politics, philosophy, theology]
+topics: [constitutional_law, governance, first_amendment, natural_law, war_peace, worship, morality_ethics, education, historical_analysis, christian_nation, old_testament, truth, judaism, orthodox, pneumatology]
+scripture: ["Galatians 6:7"]
+mentions: ["Jesus", "Christ", "Holy Spirit", "Abraham", "Thomas Jefferson", "Ronald Reagan"]
+status: ESTABLISHED
+type: essay
+source_url: "https://drthomasforpresident.com/2019/03/patriotism/"
+wp_id: 532
+wp_slug: "patriotism"
+wp_categories: ["Christianity in Politics", "Politics"]
 ---
+
+# Patriotism
 
 By: Thomas Lee Abshier, ND
 
 2/28/2004
+
 
 EDITORIAL DESK |
 
@@ -25,7 +33,9 @@ Late Edition – Final , Section 4 , Page 11 , Column 2
 
 DISPLAYING FIRST 50 OF 645 WORDS –
 
-“I couldn't be happier that President Bush has stood up for having served in the National Guard, because I can finally put an end to all those who questioned my motives for enlisting in the Army Reserve at the height of the Vietnam War.”
+
+“I couldn’t be happier that President Bush has stood up for having served in the National Guard, because I can finally put an end to all those who questioned my motives for enlisting in the Army Reserve at the height of the Vietnam War.”
+
 
 Patriotism
 
@@ -33,7 +43,8 @@ By Thomas Lee Abshier, ND
 
 2/28/2004
 
-Obviously the piece was a satire meant to demean President Bush for his service in the National Guard as though he was cowardly, a semi-draft dodger, thus without strong grounds in his criticism of Kerry's stand on Iraq, or without moral authority in matters military because he served in the Guard stateside, and not with the Army in Vietnam.
+
+Obviously the piece was a satire meant to demean President Bush for his service in the National Guard as though he was cowardly, a semi-draft dodger, thus without strong grounds in his criticism of Kerry’s stand on Iraq, or without moral authority in matters military because he served in the Guard stateside, and not with the Army in Vietnam.
 
 The article brought back memories of my own war of the 60s/70s as I served on the USS Kitty Hawk, CVA 63, stationed off North Vietnam as a midshipman, and as an officer on the USS Sam Houston, SSBN 609 Gold Crew. The article provided an opportunity for me to examine how my own perspective has changed with the years, how I have been able to frame my own motives and understanding of the purpose of war, the responsibility of leadership, and the significance of my own personal participation in the public debate over national policy and foreign intervention.
 
@@ -137,7 +148,7 @@ Another common tactic of the Anti-Christ spirit is to use the sense of kindness,
 
 The complexity of the human condition, the lag time between action and reaping of cause and effect consequence, and the plausible non-existence of God, His influence, or His Laws in ordinary life, lead to an acceptance of the revisionist proposition that there is no place for the Judeo Christian God in American public life. The Anti-Messiah spirit will continue until the return of the Lord to pressure the human heart by any and every tactic to remove all vestiges of cultural pressure to conform to His Way. Such is the Anti-Christ spirit expression of dominion.
 
-Service to the country in its highest sense is to contribute one's efforts to defending and supporting the nation's highest ideals. Protecting borders is a tangible expression of the struggle to defend the spirit of a country. The intangible group mind imperceptibly influences the movement of the nation in relation to the community of nations. The group mind likewise shapes the internal culture of the nation as codified by law, manners, and social norms. As such, the principles of right and wrong embraced by it, the actions to defend and expand the territory occupied by that belief system, are all a reflection of service to the God exalted by the group mind.
+Service to the country in its highest sense is to contribute one’s efforts to defending and supporting the nation’s highest ideals. Protecting borders is a tangible expression of the struggle to defend the spirit of a country. The intangible group mind imperceptibly influences the movement of the nation in relation to the community of nations. The group mind likewise shapes the internal culture of the nation as codified by law, manners, and social norms. As such, the principles of right and wrong embraced by it, the actions to defend and expand the territory occupied by that belief system, are all a reflection of service to the God exalted by the group mind.
 
 There is no one point at which the national God is dethroned and replaced by a new god. The transfer of allegiance, the movement of devotion from one National God to another is a gradual process embodied by the thought, speech, and action of every man woman and child of a nation. Every vote, every action by every citizen at every moment, every law passed or overthrown, every lesson taught to every child, friend, student, spouse, and co-worker is a thread in the fabric of the National spirit. That National spirit can be in concert with the Holy Spirit of God, or it can resonate and reflect the pattern of another god. Each spirit has its own fruit.
 
@@ -145,7 +156,7 @@ We are each under a moral obligation to defend the borders and territory of our 
 
 The true enrollment and missionary work are in showing the world and neighborhood a better way. The example of a life lived well is the most excellent object lesson, even though a perfect demonstration is difficult. By living well, in some small way, the balance of power and the hearts of the populace will be moved. Eventually, the heads of State will be moved by the will and minds of the people, and the laws and policies of the nation will be affected. The witness of a nation producing good fruit, and in turn sharing that good fruit, and showing other nations how to grow their own good fruit is the best evangelism. The stomachs are filled and the gospel is preached. The faith and works are consistent and the heart is pure.
 
-I don't think I saw deeply into the significance of my contribution to the protection and maintenance of the Godly national spirit during my time of service. I was just trying to make it through life. I didn't want to die, I certainly had no principle or ideal for which I had an overpowering call to defend in the conflict. As a youth, I was subject to the same moral confusion that many young people struggle with. We were fighting a war to prevent the spread of communism to prevent the subjugation of a people to tyranny; certainly, such a cause was righteous. It took me many years to realize the valor and right purpose of the Vietnam struggle. It is painful to me as an American to think that we lost the war because of poor leadership and improper restrictions being placed on our fighting men. No doubt sacrifices were made that were literally heroic, but the fruit of that heroism could not grow because of the wrong judgment of unrighteous leaders.
+I don’t think I saw deeply into the significance of my contribution to the protection and maintenance of the Godly national spirit during my time of service. I was just trying to make it through life. I didn’t want to die, I certainly had no principle or ideal for which I had an overpowering call to defend in the conflict. As a youth, I was subject to the same moral confusion that many young people struggle with. We were fighting a war to prevent the spread of communism to prevent the subjugation of a people to tyranny; certainly, such a cause was righteous. It took me many years to realize the valor and right purpose of the Vietnam struggle. It is painful to me as an American to think that we lost the war because of poor leadership and improper restrictions being placed on our fighting men. No doubt sacrifices were made that were literally heroic, but the fruit of that heroism could not grow because of the wrong judgment of unrighteous leaders.
 
 When I faced the questions about Vietnam as a college-age youth, I simply wanted to grow and understand life. At that young age, I simply wanted to learn how properly respond to life in this cruel world. I believe most of us participate in the larger drama of the State without a great deal of understanding of the larger purpose. Few are given a sufficiently universal perspective at a young age to enter into life as a fully prepared adult.
 
@@ -165,8 +176,9 @@ The Revolutionary War we must fight as modern day patriots is the oppression of 
 
 The battle starts with the individual struggle to restore God’s sovereignty in our hearts. Collectively, the assembly of the 1000 points of light forms a shining beacon that can properly lead our national spirit. The struggle we face is worthy of fighting, it’s time to take control of our own hearts and win back this Land from the unseen enemy.
 
+
 Recommended reading:
 
-1) "America’s Real War", by Rabbi Lapin
+1) “America’s Real War”, by Rabbi Lapin
 
-2) "Useful Idiots", by Mona Charon
+2) “Useful Idiots”, by Mona Charon

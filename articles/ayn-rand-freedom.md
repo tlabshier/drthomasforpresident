@@ -1,35 +1,52 @@
 ---
-title: "Ayn Rand &#038; Freedom"
-slug: ayn-rand-freedom
+title: "Ayn Rand  Freedom"
+author: "Thomas Lee Abshier, ND"
 date: 2019-03-25
-id: 576
-link: https://drthomasforpresident.com/2019/03/ayn-rand-freedom/
-status: publish
-protected: false
-categories:
-  - Politics > Libertarian Politics
-  - Politics
+module: CEA
+secondary_modules: [CHR]
+domains: [economics, culture, politics]
+topics: [constitutional_law, governance, morality_ethics, civil_war_us, economics, federal_reserve, education, christian_nation, capitalism, marriage_family, environmentalism]
+mentions: ["Christ", "Margo"]
+thesis: "A summary of the key points: 1. Thomas agrees with the principle of freedom from government imposition but argues that some level of rules and laws are inevitable for groups of people."
+status: ESTABLISHED
+type: essay
+source_url: "https://drthomasforpresident.com/2019/03/ayn-rand-freedom/"
+wp_id: 576
+wp_slug: "ayn-rand-freedom"
+wp_categories: ["Libertarian Politics", "Politics"]
 ---
+
+# Ayn Rand & Freedom
 
 A summary of the key points:
 
+
 1. Thomas agrees with the principle of freedom from government imposition but argues that some level of rules and laws are inevitable for groups of people.
+
 
 2. He argues that communities should have the right to choose their moral system and enforce it locally as long as there is freedom of movement. The federal government has overstepped by imposing a secular humanist worldview.
 
+
 3. Thomas sees the Judeo-Christian ethic as the most correct standard for organizing society but believes all faiths should be tolerant of each other. He argues communities have a right to pass laws based on their beliefs.
+
 
 4. He disagrees with Ayn Rand that no one has a right to tell others what to do, arguing that parents, communities, and nations have a right and duty to restrain wrong behavior. But he supports libertarianism as an option for local communities.
 
-5. Thomas argues that the U.S. was founded as a constitutional republic organized around Judeo-Christian principles, and it is right for nations to organize according to their founders' ethics.
+
+5. Thomas argues that the U.S. was founded as a constitutional republic organized around Judeo-Christian principles, and it is right for nations to organize according to their founders’ ethics.
+
 
 6. He believes a market-based system could work at the local level but does not oppose rule of law systems either. People should have the option to choose their preferred system of organization.
 
+
 7. The current problem is the overreach of the federal government imposing secular ethics on the entire nation, violating original intent. Thomas argues for rolling back federal power to its constitutional limits.
+
 
 8. Ultimately, Thomas argues that whichever system of organization is chosen – market or law-based – must be grounded in morality to work well. But communities should be free to experiment with different systems at the local level.
 
- 
+
+
+
 
 **Ayn Rand & Freedom**
 
@@ -37,21 +54,27 @@ By: Thomas Lee Abshier, ND
 
 1/16/2011
 
-A friend of Thomas sent the video link of Mike Wallace interviewing Ayn Rand in 1958.  I think Thomas hit the nail on the head with his critique of Libertarianism in his comparison of it with the Judeo-Christian Constitutional Republic approach of the Founders.  I think Thomas makes it clear why Libertarianism won't work any better than anarchy, liberalism, socialism, progressivism, or communism.  These are the beasts currently seducing us and seeking to destroy our system of government.  I hope you can find the time to read his commentary sometime this week and to weigh the consequences to our future if any of these other systems prevail in their attempts at overthrowing our current Constitution.  Please strongly pray for our new members of Congress to impact our nation in their attempt to return us to Constitutional government according to the Founders’ original intent.
+
+A friend of Thomas sent the video link of Mike Wallace interviewing Ayn Rand in 1958.  I think Thomas hit the nail on the head with his critique of Libertarianism in his comparison of it with the Judeo-Christian Constitutional Republic approach of the Founders.  I think Thomas makes it clear why Libertarianism won’t work any better than anarchy, liberalism, socialism, progressivism, or communism.  These are the beasts currently seducing us and seeking to destroy our system of government.  I hope you can find the time to read his commentary sometime this week and to weigh the consequences to our future if any of these other systems prevail in their attempts at overthrowing our current Constitution.  Please strongly pray for our new members of Congress to impact our nation in their attempt to return us to Constitutional government according to the Founders’ original intent.
+
 
 Margo
 
+
 http://www.youtube.com/watch?v=xbQye6GSOqs
 
+
 ---
+
 
 On Jan 16, 2011, at 10:02 AM
 
 Thomas Lee Abshier, ND
 
+
 John, you are very passionate about the perspective of a free market and freedom from the imposition of government-approved/imposed slavery.  I, of course, agree with the general concepts.
 
-My line of reasoning is based upon what I consider to be the fact/reality that groups will naturally organize into global, state, county, and city-size groups.  And given man's nature to love power and want personal comfort at the expense of others, and use the power of the state/money/majority to give him the authority and means to exert control with force over others, he will probably misuse it and enslave others in a way that you and I would judge to be unrighteous.
+My line of reasoning is based upon what I consider to be the fact/reality that groups will naturally organize into global, state, county, and city-size groups.  And given man’s nature to love power and want personal comfort at the expense of others, and use the power of the state/money/majority to give him the authority and means to exert control with force over others, he will probably misuse it and enslave others in a way that you and I would judge to be unrighteous.
 
 But, having said that, you and I have heard of people admired for their leadership of communities, such as mayors, sheriffs, commissioners, etcetera, who guided the moral tone of a city into a modern-day Mayberry and Pleasantville.  My theory posits that good/moral/righteous people can direct and frame the environment in which they live into being a wonderful place to live because they have chosen good/right rules of behavior that are enforced.  As long as freedom of movement is allowed, living under the law restrictions in Mayberry and Pleasantville is voluntary.  If Jacque T. Ripper wants to live in Satanica instead of Pleasantville, then he should have the right to move to the location of his choice.
 
@@ -65,7 +88,7 @@ We cannot accuse the Judeo-Christian ethic of hypocrisy or demanding that other 
 
 Because of our Founding as a Christian nation, the organization of the nation’s laws around other religions was largely rejected until recently.  Our legal system’s foundation upon the principles of our Christian heritage has only a thin strand connecting and maintaining it.  Perpetuating the influence of our Christian heritage depends upon the soft force of family educating its youth.  When the humanist cabal usurped the public education system, a change in the direction of our nation was virtually certain. When the education system refused to faithfully continue the indoctrination of our youth in the culture and faith of their parents, a slow-motion coup was set in motion.
 
-Those who wished to dethrone Christ from the national worship have used the state's power to impose a humanistic indoctrination upon our youth, with the goal of owning the nation.  This usurpation of the spiritual allegiance was done covertly, contravening the restrictions of the spirit and letter of the Constitution.  But, such treachery is to be expected, given the nature of the spiritual world.  And, given that deception is a standard tool used by the forces of darkness, little else should be expected.  The shame to the community of Christ is our lack of vigilance and resistance to the glacial creep of the humanistic tyranny that we now see sweeping the nation.
+Those who wished to dethrone Christ from the national worship have used the state’s power to impose a humanistic indoctrination upon our youth, with the goal of owning the nation.  This usurpation of the spiritual allegiance was done covertly, contravening the restrictions of the spirit and letter of the Constitution.  But, such treachery is to be expected, given the nature of the spiritual world.  And, given that deception is a standard tool used by the forces of darkness, little else should be expected.  The shame to the community of Christ is our lack of vigilance and resistance to the glacial creep of the humanistic tyranny that we now see sweeping the nation.
 
 The right of any group to perpetuate a culture by exposing, training, teaching its youth the ethic of the previous generation is a vital aspect of being a free people.  America was established as a Christian nation, with a Judeo-Christian ethic derived from the Old and New Testament.  The policies that came out of the cultural debate were good, right, and just to the extent that the ideals of the Judeo-Christian ethic were properly and rightly instituted.  But, this ethic has been eroded by Federal law (mainly by Judicial fiat), as it mandated other moral systems be instituted superior to the Judeo Christian ethic.  This interpretation of Constitutional principle and intent was done without the consent, and in fact, in opposition to the will of the people and the history and heritage of the nation.
 
@@ -75,9 +98,9 @@ It is impossible to avoid the imposition of a group system of rule since; 1) men
 
 I do not believe these assumptions contradict the notions of freedom as long as there is freedom of movement, and there is no coercion to believe a particular doctrine.  The law arising from scripture should be validated as good and true simply by observing the fruit of its implementation.  I believe parents have the right, and in fact a duty, to indoctrinate their children into their faith, but parents should also teach a child to examine the entire body of world ideas.  Children should be taught to think critically, reason, evaluate an argument based on fact, and to challenge the validity of fact.
 
-I personally don't think that Christianity has done this to the degree of detail is necessary to validate the faith on a logic and fact basis.  But, even without filling in all the details, the effect of following the Judeo-Christian ethic on a man’s life is so beneficial, that the life results alone are sufficient to validate the value of the faith.
+I personally don’t think that Christianity has done this to the degree of detail is necessary to validate the faith on a logic and fact basis.  But, even without filling in all the details, the effect of following the Judeo-Christian ethic on a man’s life is so beneficial, that the life results alone are sufficient to validate the value of the faith.
 
-The lack of a full explanation of the drama and play that led to the creation and crucifixion drove me on my own vision quest to develop my own narrative and theories of creation/spirit/nature that have allowed me to believe as I do.  I have documented by theory at www.theoryofabsolutes.com, and I believe that ideas might make it be easier for the Christian worldview to compete on the level of logic with the science-based religion of today.  Until the time when we adopt a narrative that justifies our faith from consciousness, to substance, to morality, to faith, to salvation, we will continue debating across a philosophical divide with the scientific world.  We currently use a common language, but with disparate referents, with our discussions coming to no agreement because of the lack of a philosophical terrain that smoothly connects worldviews.  I believe my theory allows that smoothing.  Time will tell if my ideas will change anything.  (I realize it's a long shot.)
+The lack of a full explanation of the drama and play that led to the creation and crucifixion drove me on my own vision quest to develop my own narrative and theories of creation/spirit/nature that have allowed me to believe as I do.  I have documented by theory at www.theoryofabsolutes.com, and I believe that ideas might make it be easier for the Christian worldview to compete on the level of logic with the science-based religion of today.  Until the time when we adopt a narrative that justifies our faith from consciousness, to substance, to morality, to faith, to salvation, we will continue debating across a philosophical divide with the scientific world.  We currently use a common language, but with disparate referents, with our discussions coming to no agreement because of the lack of a philosophical terrain that smoothly connects worldviews.  I believe my theory allows that smoothing.  Time will tell if my ideas will change anything.  (I realize it’s a long shot.)
 
 Possibly my assumption of the workability of organizing the nation so that people of different faiths, customs, and social organizations migrate and associate to various towns, counties, and states to test the workability of their choice of lifestyle is incorrect.  And possibly my assumption is incorrect that the Judeo-Christian ethic most correctly reflects the natural law upon which men were designed.  Obviously, I think that my arguments about community and their right to choose and enforce local ethics is correct.  If there is no need for any group organization on any level, then my argument fails.  If in fact every community should be organized around market principles only, and every community operates best this way, then no community should be organized around a law, judiciary, and executive system.
 
@@ -91,7 +114,7 @@ The argument that Ayn stands upon as her projected moral high ground is that no 
 
 The Libertarian, recognizing that the above is true, then seeks to say that these invasions should be combated with market force-based tools — men choosing freely to oppose them.  And again, this is certainly one method of organizing a city, county, state, and/or nation.
 
-We were organized as a Constitutional Republic, and I believe we should have the right to choose to impose that upon ourselves.  There is no moral violation in choosing to accept living within a domain where I am subject to the rules of the domain.  We have the right to impose rules upon ourselves.   Likewise, there is no moral violation associated with the city, county, or state officials executing the provisions of laws passed by the majority.  The problem comes when I don't agree with the morality of the law.  If this is a hard tyranny, then lobbying, judicial action, and media persuasion are all futile; in such a condition, I truly am living in a slave state and prison planet.
+We were organized as a Constitutional Republic, and I believe we should have the right to choose to impose that upon ourselves.  There is no moral violation in choosing to accept living within a domain where I am subject to the rules of the domain.  We have the right to impose rules upon ourselves.   Likewise, there is no moral violation associated with the city, county, or state officials executing the provisions of laws passed by the majority.  The problem comes when I don’t agree with the morality of the law.  If this is a hard tyranny, then lobbying, judicial action, and media persuasion are all futile; in such a condition, I truly am living in a slave state and prison planet.
 
 If the law can be opposed by social action, and legislative and judicial remedies, then I live in a governmental environment that will change on its own evolutionary timeframe dictated by its internal forces of resistance, momentum, and propulsion.  There is not a huge amount of difference between the market-based system and a state-law based system when both can be influenced.  The market-based system assumes that all human transactions can be entered into and withdrawn by monetary vote.  The Law-based system, with its democratically established rules, depends on the psyche/opinion/knowledge/mindset of the majority.
 
@@ -99,22 +122,23 @@ If the society and its functions can be divided into their polar opposites, or b
 
 But, just as a market-based system could work, I believe that men should be given the opportunity to choose to live in a law-based system.  This is the system that we were given by our Founders, and yes we are subject to laws which we did not pass, and a national charter contract (Constitution) we did not sign.  But, if there are laws that we do not like, we can lobby against them, just as we can form a market-based force against the evil empire that has come to dominate Smelterville.  Both systems require the morality that must be at the foundation of any government that would be acceptable within a moral society.
 
-Your argument is based (at least in part) upon the ethic that no man has the right to tell any other man what to do.  (You have framed this argument around the obvious good/evil polarity that slavery is bad and freedom is good.  I, of course, agree with this on the highest and most general of levels.)  My argument is that the organization of men around regions and ideologies is unavoidable.  I believe the only way to give men true freedom is to allow them to choose their ethic and enforce it within the group and give them the option of choosing their group and its associated ethics.  Beyond that, I don't think we will be able to manifest the dream of freedom.
+Your argument is based (at least in part) upon the ethic that no man has the right to tell any other man what to do.  (You have framed this argument around the obvious good/evil polarity that slavery is bad and freedom is good.  I, of course, agree with this on the highest and most general of levels.)  My argument is that the organization of men around regions and ideologies is unavoidable.  I believe the only way to give men true freedom is to allow them to choose their ethic and enforce it within the group and give them the option of choosing their group and its associated ethics.  Beyond that, I don’t think we will be able to manifest the dream of freedom.
 
 A purely anarcho-capitalist world, with no group rules and enforcement, is simply one of the choices that we should have.  Even in this world organization, there will be a group ethic that dominates, and if not, there will be warfare of sorts between the two ethics, both seeking to dominate the other.  And yes, this is a type of freedom.  In the struggles to support my ideals, I can choose to ally with the Empire or the Resistance, and in a Libertarian solution, I would use the tools of participation in the market and production to support my side.
 
-In the law-based system, the local culture, the market is free to the extent that it operates within the boundaries of the group ethic. Granted that freedom is limited, but security and happiness can be optimized within that environment.  The law-based system does not allow a free market because every manufacturer/purveyor provides whatever service/product he wants.  Some behaviors/products will fall afoul of some group ethic.  In other words, it is inappropriate to require porn outlets in Pleasantville.  To impose a market-based economy/ethic on the entirety of the country is a type of tyranny that arises by requiring the expression of total market freedom.  If people don't want that, they should have the right to choose to be governed by a set of laws.
+In the law-based system, the local culture, the market is free to the extent that it operates within the boundaries of the group ethic. Granted that freedom is limited, but security and happiness can be optimized within that environment.  The law-based system does not allow a free market because every manufacturer/purveyor provides whatever service/product he wants.  Some behaviors/products will fall afoul of some group ethic.  In other words, it is inappropriate to require porn outlets in Pleasantville.  To impose a market-based economy/ethic on the entirety of the country is a type of tyranny that arises by requiring the expression of total market freedom.  If people don’t want that, they should have the right to choose to be governed by a set of laws.
 
 In other words, I am advocating Libertarianism as an option, to be executed on a city-choice basis.  I believe the higher layer central governments should avoid legislating (mandating behaviors) outside of their particular layer of jurisdiction.
 
-In the law and democracy based system, those who will not abide by the group ethic (the local community, business, family…) will, and should, face the forceful repercussions of falling afoul of the group ethic.  Of course, there are many forms of force, from a request, facial gesture of disapproval, reprimand, statement with forceful tone, physical restraint or coercion, and ultimately group authorized physical restraint.  There is no clear line at which force becomes slavery, but every human interaction involves force of some sort.  It may be the attractive force of request and enticement, or it may be the harsh force of discipline and consequences.  The end result of each intervention has its intent of shaping the individual's behavior to come in line with the group.  The market-based society will use interpersonal force just as will the law-based society.  The greater the offense against the group ethic, the greater the force that the group and its agents/members will exert.  The only difference between personal and group authorized force is the level of agreement behind it.  Typically, if people don’t like what the group forces them to do, they call it slavery.  But, this objection to group force is easily handled by allowing each city to have its own set of group ethics.
+In the law and democracy based system, those who will not abide by the group ethic (the local community, business, family…) will, and should, face the forceful repercussions of falling afoul of the group ethic.  Of course, there are many forms of force, from a request, facial gesture of disapproval, reprimand, statement with forceful tone, physical restraint or coercion, and ultimately group authorized physical restraint.  There is no clear line at which force becomes slavery, but every human interaction involves force of some sort.  It may be the attractive force of request and enticement, or it may be the harsh force of discipline and consequences.  The end result of each intervention has its intent of shaping the individual’s behavior to come in line with the group.  The market-based society will use interpersonal force just as will the law-based society.  The greater the offense against the group ethic, the greater the force that the group and its agents/members will exert.  The only difference between personal and group authorized force is the level of agreement behind it.  Typically, if people don’t like what the group forces them to do, they call it slavery.  But, this objection to group force is easily handled by allowing each city to have its own set of group ethics.
 
 As you can tell, I organize my sense of authorized force around that which is the appropriate domain of law for each layer, be it family, city, county, state, or nation, with each layer having laws that are progressively more general.  Thus, the character of each state will be different, as it should be, and was intended by the Founders.  The nation being the most general layer has as its most important and unique domain, the charge of defense of the boundaries of the nation.
 
-The tyrannical imposition of Federal ethics upon the city/county/state is the perversion of the Founder's intent for the central government that has initiated this entire discussion.  The imposition of a group morality at the highest level leaves no room to run, no place to escape the tyranny of the ruling class.
+The tyrannical imposition of Federal ethics upon the city/county/state is the perversion of the Founder’s intent for the central government that has initiated this entire discussion.  The imposition of a group morality at the highest level leaves no room to run, no place to escape the tyranny of the ruling class.
 
 I believe the perversion and movement away from the Judeo-Christian ethic was the purposeful intent motivating this entire excursion away from the Founding principles.  I would be content to live under the slavery of the local ordinance if it were an ordinance I agreed with.  I would likewise be willing to tolerate one I disagreed with if there were other options I could exercise (such as moving to another locality).  I don’t mind suffering a little, and not taking action against every perceived moral imperfection of my community, or I may choose to occupy myself fighting City Hall.  I can live in a system of potentially imposed force as long as I have at least the potential means to oppose the rules, tyranny, and slavery via escape, media, persuasion, and/or democratically mediated victory.
 
 The current state of option-less slavery, with no-where-to-run, and no power to influence the milieu, is likewise one I do not support.  Libertarian domains should be allowed as a Constitutional option for the organization of city/county/states.  If they thrive, others will be attracted to this organization, and adopt these rules of social/economic organization.  The impediment to implementing such organization is the unConstitutional reach of the Federal government into the lives of the common man and state government.  This unConstitutional encroachment at all levels of organization and group must be rolled back to that prescribed by Original Intent.  With the above qualifications and distinctions of domain, I completely agree with you and Ayn Rand.  Libertarianism should be a choice, not another imposed system of group organization.
+
 
 T.

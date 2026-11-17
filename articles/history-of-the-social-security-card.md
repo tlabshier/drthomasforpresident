@@ -1,17 +1,24 @@
 ---
-title: History of the Social Security Card
-slug: history-of-the-social-security-card
+title: "History of the Social Security Card"
+author: "Thomas Lee Abshier, ND"
 date: 2019-03-23
-id: 535
-link: https://drthomasforpresident.com/2019/03/history-of-the-social-security-card/
-status: publish
-protected: false
-categories:
-  - Politics > Left Wing Issues
-  - Politics
+module: CEA
+domains: [politics, economics]
+topics: [social_security, governance, immigration]
+mentions: ["FDR"]
+thesis: "(Received at an email) Here are some facts about the history of Social Security. Up until the 1980s, Social Security Cards expressly stated the number and card were not to be used for identification purposes."
+status: ESTABLISHED
+type: essay
+source_url: "https://drthomasforpresident.com/2019/03/history-of-the-social-security-card/"
+wp_id: 535
+wp_slug: "history-of-the-social-security-card"
+wp_categories: ["Left Wing Issues", "Politics"]
 ---
 
+# History of the Social Security Card
+
 (Received at an email)
+
 
 Here are some facts about the history of Social Security.
 
@@ -31,19 +38,20 @@ Now 7.65% on the first $90,000
 
 No longer tax deductible
 
-4.) That the money the participants put into the independent 'Trust Fund' rather than into the general operating fund, and therefore, would only be used to fund the Social Security Retirement Program, and no other Government program.
+4.) That the money the participants put into the independent ‘Trust Fund’ rather than into the general operating fund, and therefore, would only be used to fund the Social Security Retirement Program, and no other Government program.
 
 Under Lyndon Johnson, the money was moved to the General Fund and Spent
 
 5.) That the annuity payments to the retirees would never be taxed as income.
 
-Under Clinton & Gore Up to 85% of your Social Security can be Taxed Since many of us have paid into FICA for years and are now receiving a Social Security check every month — and then finding that we are getting taxed on 85% of the money we paid to the Federal government to 'put away'.
+Under Clinton & Gore Up to 85% of your Social Security can be Taxed Since many of us have paid into FICA for years and are now receiving a Social Security check every month — and then finding that we are getting taxed on 85% of the money we paid to the Federal government to ‘put away’.
+
 
 Other facts about Social Security:
 
 ———— ——— ——— ——— ——— ——— —-
 
-Q: Which Political Party took Social Security from the independent 'Trust Fund' and put it into the general fund so that Congress could spend it? A: It was Lyndon Johnson and the democratically controlled House and Senate.
+Q: Which Political Party took Social Security from the independent ‘Trust Fund’ and put it into the general fund so that Congress could spend it? A: It was Lyndon Johnson and the democratically controlled House and Senate.
 
 ———— ——— ——— ——— ——— ——— ——— —
 
@@ -53,7 +61,7 @@ A: The Democratic Party.
 
 ———— ——— ——— ——— ——— ——— ———
 
-Q: Which Political Party started taxing Social Security annuities? A: The Democratic Party, with Al Gore casting the 'tie-breaking' deciding vote as President of the Senate, while he was Vice President of the US ———— ——— ——— ——— ——— ——— ——— –
+Q: Which Political Party started taxing Social Security annuities? A: The Democratic Party, with Al Gore casting the ‘tie-breaking’ deciding vote as President of the Senate, while he was Vice President of the US ———— ——— ——— ——— ——— ——— ——— –
 
 Q: Which Political Party decided to start giving annuity payments to immigrants?
 

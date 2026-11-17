@@ -1,19 +1,24 @@
 ---
-title: Foreign Aid and Nation Building
-slug: foreign-aid-and-nation-building
+title: "Foreign Aid and Nation Building"
+author: "Thomas Lee Abshier, ND"
 date: 2019-03-23
-id: 552
-link: https://drthomasforpresident.com/2019/03/foreign-aid-and-nation-building/
-status: publish
-protected: false
-categories:
-  - Economics
-  - Politics > Left Wing Issues
-  - Economics > Money
-  - Politics
+module: CEA
+domains: [culture, economics, politics]
+topics: [economics, governance, foreign_policy, environmentalism, tariffs, technology, suffering, education, marriage_family, welfare_state]
+mentions: ["Christ"]
+thesis: "By: Thomas Lee Abshier, ND  Spiritual aspects of Nation Building  Without a good spiritual foundation they labor in vain who attempt to build a nation."
+status: ESTABLISHED
+type: essay
+source_url: "https://drthomasforpresident.com/2019/03/foreign-aid-and-nation-building/"
+wp_id: 552
+wp_slug: "foreign-aid-and-nation-building"
+wp_categories: ["Economics", "Left Wing Issues", "Money", "Politics"]
 ---
 
+# Foreign Aid and Nation Building
+
 By: Thomas Lee Abshier, ND
+
 
  Spiritual aspects of Nation Building
 
@@ -67,9 +72,9 @@ By: Thomas Lee Abshier, ND
 
  Initialization of a social and physical infrastructure will create an economic environment where industry, production and trade can be supported
 
- External investment is required to rapidly initialize a nation's infrastructure. If America engages in supporting a nation-building effort, it should be with the expectation of profit and repayment.
+ External investment is required to rapidly initialize a nation’s infrastructure. If America engages in supporting a nation-building effort, it should be with the expectation of profit and repayment.
 
- Once established, the physical & social infrastructure will attract private investment which will accelerate the economy's growth.
+ Once established, the physical & social infrastructure will attract private investment which will accelerate the economy’s growth.
 
  Energy is the force that drives the engines of industry & create productivity:
 
@@ -115,9 +120,9 @@ By: Thomas Lee Abshier, ND
 
  Currently the amount of uninhabitable land is very large. By applying energy, water (desalinization), and intelligent management, the unproductive lands of the earth can be put to good use in supporting humanity.
 
- The ZPG/Environmental Lobby have allied with the Gaia movement, a neo-pagan earth/nature worship religion. Some branches of this type of religion have considered man to be a curse, plague or parasitic infestation on the body of Mother Earth. A program to make the earth bloom and support the first Biblical command of God to "Be fruitful and multiply" is considered anathema by some of this religious persuasion. Thus, a spiritual battle line has formed.
+ The ZPG/Environmental Lobby have allied with the Gaia movement, a neo-pagan earth/nature worship religion. Some branches of this type of religion have considered man to be a curse, plague or parasitic infestation on the body of Mother Earth. A program to make the earth bloom and support the first Biblical command of God to “Be fruitful and multiply” is considered anathema by some of this religious persuasion. Thus, a spiritual battle line has formed.
 
- I support God's Biblical charge to multiply and subdue the Earth. I believe that man is the center and crown of the created universe. The earth was made for man to enjoy, and to learn to live with and love his fellow man and God. The Earth is not our mother in an evolutionary or creative sense. It is simply the substrate of our substance, we are created from the dust of the earth, but it was God's hands that fashioned our frame and enlightened our eyes with a spark of the divine, giving us a spirit akin to His. While we are not God, we do have a family similarity, and we are all called to adoption into His family by submitting our spirits to Him.
+ I support God’s Biblical charge to multiply and subdue the Earth. I believe that man is the center and crown of the created universe. The earth was made for man to enjoy, and to learn to live with and love his fellow man and God. The Earth is not our mother in an evolutionary or creative sense. It is simply the substrate of our substance, we are created from the dust of the earth, but it was God’s hands that fashioned our frame and enlightened our eyes with a spark of the divine, giving us a spirit akin to His. While we are not God, we do have a family similarity, and we are all called to adoption into His family by submitting our spirits to Him.
 
  Water – a requirement for life and society:
 

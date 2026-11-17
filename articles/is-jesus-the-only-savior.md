@@ -1,26 +1,34 @@
 ---
-title: Is Jesus the Only Savior
-slug: is-jesus-the-only-savior
+title: "Is Jesus the Only Savior"
+author: "Thomas Lee Abshier, ND"
 date: 2019-03-20
-id: 475
-link: https://drthomasforpresident.com/2019/03/is-jesus-the-only-savior/
-status: publish
-protected: false
-categories:
-  - Theology > Christianity > Apologetics
-  - Theology > Christianity
-  - Theology
+module: CAP
+secondary_modules: [CEA, CHR]
+domains: [theology, politics, biblical_studies]
+topics: [constitutional_law, governance, christian_nation, education, historical_analysis, salvation, grace, worship, first_amendment, comparative_religion, justification, creation, judgment, prayer, new_testament]
+mentions: ["Jesus", "Christ", "Margo"]
+status: ESTABLISHED
+type: essay
+source_url: "https://drthomasforpresident.com/2019/03/is-jesus-the-only-savior/"
+wp_id: 475
+wp_slug: "is-jesus-the-only-savior"
+wp_categories: ["Apologetics", "Christianity", "Theology"]
 ---
+
+# Is Jesus the Only Savior
 
 By: Thomas Lee Abshier, NDBook Review: “Is Jesus the Only Savior”by James R. Edwards
 
+
 Leftist culture warriors continually bleat that it is bigoted to affirm that one religion is superior to any other or that Jesus is the only savior. But now James R. Edwards, a professor of biblical languages and literature, ordained Presbyterian minister, and contributing editor of Christianity Today, sets the record straight — and gives conservative Christians solid ammunition to use when the religious relativists and multiculturalist totalitarians start to attack the Lord and His saving role.
 
-Edwards tackles the tough questions head-on, tracing the currents of anti-Christian modernity from the Enlightenment to the Jesus Seminar and proving that the assumptions of the most skeptical historical-Jesus scholars are no more intellectually defensible than the claims of faith. He gathers together an immense amount of evidence to show that, contrary to liberal scholars' claims, Jesus from the beginning of His ministry considered himself the unique and saving mission of God to the world.
+Edwards tackles the tough questions head-on, tracing the currents of anti-Christian modernity from the Enlightenment to the Jesus Seminar and proving that the assumptions of the most skeptical historical-Jesus scholars are no more intellectually defensible than the claims of faith. He gathers together an immense amount of evidence to show that, contrary to liberal scholars’ claims, Jesus from the beginning of His ministry considered himself the unique and saving mission of God to the world.
 
 Then Edwards turns to contemporary cultural currents, laying out a solid Christian response to the thorniest issues and toughest challenges for Christians posed by the modern age: religious pluralism, moral relativism, postmodernism, the role of Christian exclusivity in the quest for world peace, and more. Illustrated with charming real-life stories, Is Jesus the Only Savior? is a solid handbook for meeting twenty-first-century challenges to the faith with the timeless wisdom of historic and unchanging Christian truth.
 
+
 Question:
+
 
 Hello Thomas,
 
@@ -28,9 +36,12 @@ Do you advocate that the U. S. Government should be operated on the belief that 
 
 Fred
 
+
 Background of the following correspondence:
 
-Fred contacted me (Thomas Abshier) after having read the article I wrote on Harriet Meirs. It appears that Fred is a liberal, has studied many of the pivotal Supreme Court cases and important writings of the Founders. He contends that the Founders did not intend for Christianity to be considered a preferred religion over any other. Margo (my wife) responded to his questions and comments with a very detailed citation of many references the Founders made about God and Christianity. Fred's response to these citations was to discount their veracity, intent, and/or meaning. He reframed these statements and rulings as though they had, in fact, supported his contentions about the Founders intending a nation with absolutely no preference in spiritual allegiance. I assess that there is little point in further discussion because his mind is made up and that no data or reason will dislodge him from his position. Therefore, I confront his commitment to an agenda by speaking the truth as forcefully as I believe is necessary to confront his belief structure. I attempt this confrontation with a posture of love (i.e. care for the well being of his soul and respect for his intention to speak what he considers to be the truth). In contrast to his vision of a Godless America, I present my vision of a Christian Nation which truly allows each of its citizens to freely choose the religious beliefs which most closely resonate with their conscience.
+
+Fred contacted me (Thomas Abshier) after having read the article I wrote on Harriet Meirs. It appears that Fred is a liberal, has studied many of the pivotal Supreme Court cases and important writings of the Founders. He contends that the Founders did not intend for Christianity to be considered a preferred religion over any other. Margo (my wife) responded to his questions and comments with a very detailed citation of many references the Founders made about God and Christianity. Fred’s response to these citations was to discount their veracity, intent, and/or meaning. He reframed these statements and rulings as though they had, in fact, supported his contentions about the Founders intending a nation with absolutely no preference in spiritual allegiance. I assess that there is little point in further discussion because his mind is made up and that no data or reason will dislodge him from his position. Therefore, I confront his commitment to an agenda by speaking the truth as forcefully as I believe is necessary to confront his belief structure. I attempt this confrontation with a posture of love (i.e. care for the well being of his soul and respect for his intention to speak what he considers to be the truth). In contrast to his vision of a Godless America, I present my vision of a Christian Nation which truly allows each of its citizens to freely choose the religious beliefs which most closely resonate with their conscience.
+
 
 Dear Fred,
 
@@ -38,7 +49,7 @@ As a nation, we should strive to establish Absolute Truth as our standard as we 
 
 No other religion can claim a Savior who was fully man, fully God, who created the universe and all life, who lived as a man and resisted all the temptations to live a perfect life, died and then rose again to give life and lead humanity in the ways of right living, and offers spiritual redemption for those who will accept the gift. I believe Christianity is superior to all other religions because it provides the doorway to a personal living relationship with the God of the Universe. The government should recognize the superiority of Christianity by allowing the marketplace of religious choice to perpetuate the Christian culture in education, government, and society if that is the will of the people.
 
-We have inherited a society which already has been organized as a Christian culture. It was a hard-won victory, an edifice of faith and societal organization assembled through the great effort of faithful men from numerous preceding generations. We should honor this inheritance and allow our Christian culture to flourish or die on its own merits or flaws. To deny Christianity the tools of media and tax-funded public support is to cripple the society's ability to fully express itself in its highest and most complete way as a Christian Nation.
+We have inherited a society which already has been organized as a Christian culture. It was a hard-won victory, an edifice of faith and societal organization assembled through the great effort of faithful men from numerous preceding generations. We should honor this inheritance and allow our Christian culture to flourish or die on its own merits or flaws. To deny Christianity the tools of media and tax-funded public support is to cripple the society’s ability to fully express itself in its highest and most complete way as a Christian Nation.
 
 I have been involved as a believer, practitioner, devotee, member, and/or student of between 15 and 20 world religions, spiritual systems, and cults. I have experienced to some extent the spirit of each belief system and the culture which they produce. I have come to my own faith in Christianity as a skeptic and a searcher. After seeing the pathways offered by the world religions I have observed that Christianity offers a philosophy, teaching, and relationship with God which is consistent with my experience of life.
 
@@ -50,7 +61,7 @@ Our nation was established as a Constitutional Republic, which means the people 
 
 We should pass no law requiring any citizen to be a Christian, nor should the law require compliance with a State established creed. Nevertheless, every law will inherently and implicitly reflect and embody the tenets of a moral system.
 
-While we should not establish a formal state religion, we should as a culture implicitly choose to hold God’s Law and Way as elaborated in the Bible as our standard of conduct in all matters private and public. No law or edict need be passed to enforce the fact that we are a Christian nation. Rather, we should simply agree as a people to hold Christ in our hearts as individuals and as the spirit governing the group behavior, and laws that reflect that spirit will naturally follow. A nation's commitment to a spirit cannot be legislated nor enforced, nor should any attempt be made to codify or officially mandate our status as a Christian Nation. The nation's spiritual allegiance rises naturally from the group whose individual members submit to the Lordship of Christ in their personal lives, and agree that His Way should guide public policy. We should choose to embody Christian/Godly principles in every law and action of the State, and cultivate, encourage, consider and propagate Christianity from the highest to lowest levels of government. All acts of government should be moderated and influenced by the highest and most relevant Christian concepts and the spirit which governs them.
+While we should not establish a formal state religion, we should as a culture implicitly choose to hold God’s Law and Way as elaborated in the Bible as our standard of conduct in all matters private and public. No law or edict need be passed to enforce the fact that we are a Christian nation. Rather, we should simply agree as a people to hold Christ in our hearts as individuals and as the spirit governing the group behavior, and laws that reflect that spirit will naturally follow. A nation’s commitment to a spirit cannot be legislated nor enforced, nor should any attempt be made to codify or officially mandate our status as a Christian Nation. The nation’s spiritual allegiance rises naturally from the group whose individual members submit to the Lordship of Christ in their personal lives, and agree that His Way should guide public policy. We should choose to embody Christian/Godly principles in every law and action of the State, and cultivate, encourage, consider and propagate Christianity from the highest to lowest levels of government. All acts of government should be moderated and influenced by the highest and most relevant Christian concepts and the spirit which governs them.
 
 As individuals, most of us have little effect on the national direction and the nation’s philosophy of government. We arrived at the party of life in the middle of history and have inherited the concepts, rules, and lessons of numerous generations who wrestled with the pressures of relationship, control, and survival. But that inheritance does not shackle us to repeating its lessons and following its traditions. In fact, each new generation is obliged to examine the ways of the elders and propose and advocate for the concepts and ways that best reflect Truth.
 
@@ -74,7 +85,7 @@ As a Christian Nation, we should seek to maintain our orientation and spiritual 
 
 As a Christian Nation, we should embrace the most general principles, symbols, and teachings of Christianity in our songs, mottos, teaching, and history. Such was the case until the Supreme Court rulings of 1962 and 63 barred the active propagation and training in the principles of the Christian faith in our schools. Until this time, the schools functioned as (poor) surrogate parents in the continued instruction and honor of Christianity as the religion of America. While scarcely adequate, at least a modicum of recognition of our Christian heritage was supplied so that none of us doubted that we were a Christian nation. No one felt threatened or ostracized for being Jewish, Hindu, or any other faith. Those outside the nation’s background of Christian faith were always welcomed to partake and share in the blessings of the good news of Jesus. Such is the nature of Christianity, tolerance of civil diversity, sharing of the gospel to non-believers, speaking the truth in love against error, and erecting a firm wall against evil.
 
-But, with the barring of prayer and Bible reading in the classroom, people such as yourself, who are committed to removing any breath of Christianity in government, have been emboldened to declare that there has been a ”Violation of the Separation of Church and State” at every turn. These modern-day ACLU witch hunts have sought to expunge every trace of the display of symbols, principles, spirit, and words of Christianity from the public square. Any expenditure which could be construed to have Christian implication is now cast in terms of the ultimate pejorative of "Congress passing laws which establish religion."
+But, with the barring of prayer and Bible reading in the classroom, people such as yourself, who are committed to removing any breath of Christianity in government, have been emboldened to declare that there has been a ”Violation of the Separation of Church and State” at every turn. These modern-day ACLU witch hunts have sought to expunge every trace of the display of symbols, principles, spirit, and words of Christianity from the public square. Any expenditure which could be construed to have Christian implication is now cast in terms of the ultimate pejorative of “Congress passing laws which establish religion.”
 
 [I speak below critically, having seen your writing and your responses to significant quantities of legal and historical commentary. I have made an opinion about who you are, and your political and spiritual polarity, and as such, I speak to you. If I am shown to have misjudged you, I shall apologize and moderate the comments which follow.]
 
@@ -84,7 +95,7 @@ Your religious practice appears to be one of commitment to preventing any expres
 
 As you currently represent yourself with your words and arguments, you do not speak like a man of spirit. You speak like a man of flesh and words. You have adopted a political belief system that reflects your spirituality. In the name of seeking the truth, you have assembled a vast array of documents to support your proposition that we are a secular nation. Your mental/spiritual filter does not allow any data to penetrate the fortress of your belief structure. Nothing that contradicts your preconceptions is allowed to be taken as valid. As such, it is impossible for any argument or data to affect your position.
 
-You have adopted a belief structure that satisfies your inner nature. A man of the flesh loves the things and ways of the flesh. A man of the spirit will pursue establishing the ways of spirit regardless of whether or not men have established an altar to a secular god. You do not see the magnificence of the pattern and spirit of the Christian faith, and hence you do not want to retain it as the beacon that guides our nation. You have exalted the (Anti-Christian) Godless nation as the ideal social order. You have assumed that man is wise enough to simply know or feel the pattern of ultimate "right" by his own wisdom and sense of truth.
+You have adopted a belief structure that satisfies your inner nature. A man of the flesh loves the things and ways of the flesh. A man of the spirit will pursue establishing the ways of spirit regardless of whether or not men have established an altar to a secular god. You do not see the magnificence of the pattern and spirit of the Christian faith, and hence you do not want to retain it as the beacon that guides our nation. You have exalted the (Anti-Christian) Godless nation as the ideal social order. You have assumed that man is wise enough to simply know or feel the pattern of ultimate “right” by his own wisdom and sense of truth.
 
 I consider both a secular and a theocratic state to be equally poor forms of government. Man has shown himself incredibly foolish in patterning secular societies. And, when men establish a theocratic priesthood rule over a secular state, a tyranny of abuse or corruption follows. Our nation has threaded the needle between these polarities and did so successfully until Everson (1947 Separation of Church and State fiat ruling) laid the groundwork for the 1962 and 63 banning of Prayer and Bible reading. At that point, we began our downhill slide toward the self-imposed tyranny and foolishness of the Secular Nation.
 
@@ -92,7 +103,7 @@ Every nation will choose a moral code by which to live and govern society, and e
 
 You contend that the founders intended to establish and perpetuate a Godless nation, a totally secular nation in its direction, having no religion superior in its consideration to any other. You have based your logic and arguments for how we should currently govern ourselves based upon the premise that we must follow the patterns of the founders in their Godless directive. You use their words of debate, imputations about their character, and their acts of state to verify that this Godless state was, in fact, their intention and purpose.
 
-I totally disagree with your interpretation of what the founders said and their intent. Having read your rebuttals to the various words of the Founder's regarding Christianity, I believe I can safely say you are a True Believer, a chauvinist, a man dedicated to a single undying mission. You are set in your ways, and you will delete, distort, and generalize anything anyone says to maintain your perspective. I do not believe that arguing with you on such issues will be productive in terms of changing your heart or mind.
+I totally disagree with your interpretation of what the founders said and their intent. Having read your rebuttals to the various words of the Founder’s regarding Christianity, I believe I can safely say you are a True Believer, a chauvinist, a man dedicated to a single undying mission. You are set in your ways, and you will delete, distort, and generalize anything anyone says to maintain your perspective. I do not believe that arguing with you on such issues will be productive in terms of changing your heart or mind.
 
 But, just to let you know my own polarity and intransigence; I stand on the opposite pole. As an illustration of my own fixed position, let us assume that you are correct in your contention that the Founders intended to create a nation where there was no expression of Christianity in any form by government. If this were the unambiguous historical fact, I would then fight to create the laws and traditions of a Christian nation where we include consideration of the Scriptures in every act of State.
 
@@ -110,7 +121,7 @@ Please note, I am not blind to the virtues of the world religions. Many, maybe e
 
 Our Founders did not intend this to be a totally secular state. This new religion of Secularism pretends to be religion-free, but its philosophy is simply an alternate religion with which to replace Christianity as America’s religion. Secular Humanism wishes to expunge every vestige of Christianity from public law and symbols and replace the Christian moral code with the worship of the lesser gods of democracy, equality, tolerance, choice, and privacy.
 
-As a Christian Nation, we allow freedom of religion, in that we do not enforce the practice of a State religion; rather, we freely and openly embrace Christianity as our commonly known pattern of moral guidance and group worship. It is time to reject the notion that the embrace of Christianity in symbols, words, and moral code conflicts with the prohibition against "Congress Establishing a Religion."
+As a Christian Nation, we allow freedom of religion, in that we do not enforce the practice of a State religion; rather, we freely and openly embrace Christianity as our commonly known pattern of moral guidance and group worship. It is time to reject the notion that the embrace of Christianity in symbols, words, and moral code conflicts with the prohibition against “Congress Establishing a Religion.”
 
 But for me, this discussion is not about what the Founders said. I believe they intended to support Christianity in every way except the enforcement of a creed. I believe our Founders promoted the generalized principles of Christianity, and believed that Christianity provided the best model for the ideal implementation of good government and social stability. They had seen their ancestors develop and work the model on a local level, and it produced freedom and prosperity. For them and for me, this is a fight about what is True and in turn defining a vision of the godliest social order.
 

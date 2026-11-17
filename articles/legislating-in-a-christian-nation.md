@@ -1,18 +1,24 @@
 ---
-title: Legislating in a Christian Nation
-slug: legislating-in-a-christian-nation
+title: "Legislating in a Christian Nation"
+author: "Thomas Lee Abshier, ND"
 date: 2019-03-22
-id: 516
-link: https://drthomasforpresident.com/2019/03/legislating-in-a-christian-nation/
-status: publish
-protected: false
-categories:
-  - Politics > Christianity in Politics
-  - Politics > Legislation
-  - Politics
+module: CEA
+domains: [politics, theology, biblical_studies]
+topics: [constitutional_law, governance, christian_nation, justification, new_testament, education]
+mentions: ["Jesus", "Christ", "James Madison"]
+thesis: "by Thomas Lee Abshier, ND The Founders intended that America be a Christian Nation, and they intended that we legislate social behavior using the standards of Biblical principle."
+status: ESTABLISHED
+type: essay
+source_url: "https://drthomasforpresident.com/2019/03/legislating-in-a-christian-nation/"
+wp_id: 516
+wp_slug: "legislating-in-a-christian-nation"
+wp_categories: ["Christianity in Politics", "Legislation", "Politics"]
 ---
 
+# Legislating in a Christian Nation
+
 by Thomas Lee Abshier, ND
+
 
 The Founders intended that America be a Christian Nation, and they intended that we legislate social behavior using the standards of Biblical principle. But, they erected a Constitutional wall against Congress establishing a single denomination as a State religion. The Bible is a collection of divinely inspired viewpoints about God and His relationship to Man and Society. But, the multiple writers, contexts, and eras make it easy to derive many possible interpretations from the Bible. As a result, many denominations have arisen to support a particular perspective about Biblical truth. The ambiguity about the perfect Christian doctrine is one important reason why a particular interpretation of scripture or system or interpretation (denominational creed) should not be given a place of legally established superiority.
 
@@ -22,11 +28,11 @@ The Founders’ writing clearly expresses the desire to place Christianity as th
 
 As a Christian nation, we are tolerant of other religions, denominations, and personal belief systems. Each person is accountable to God for his/her beliefs. But, this does not mean that the belief system of the individual is irrelevant to the society. The influence of society on the individual and the individual on society is unavoidable; the fabric of a nation will be colored, shaded, and textured by those who populate that society. It is to society’s benefit to be populated with Godly people, each internally driven to honor the rights of self and others. Such a culture is mature, peaceful, and self-governing. Little governmental guidance of personal and group behavior is needed because every person has the eternal and Absolute Law embedded in his/her own heart.
 
-James Madison said, "Religion is the basis and Foundation of Government… We have staked the whole future of American civilization, not upon the power of government, far from it. We have staked the future of all of our political institutions upon the capacity of mankind for self-government; upon the capacity of each and all of us to govern ourselves, to control ourselves, to sustain ourselves according to the Ten Commandments of God."
+James Madison said, “Religion is the basis and Foundation of Government… We have staked the whole future of American civilization, not upon the power of government, far from it. We have staked the future of all of our political institutions upon the capacity of mankind for self-government; upon the capacity of each and all of us to govern ourselves, to control ourselves, to sustain ourselves according to the Ten Commandments of God.”
 
 Even though the Founders allowed the people of all faiths to live in America, the society was to govern itself under the principles of Christianity. The Constitution is our foundational societal agreement and having been based on Christian principles, the laws extended from it will likewise be based on Christianity. The Muslim, Jew, Hindu, and Buddhist are welcome to live in our society and call it their home, but the implicit agreement is that all are subject to the laws which are in turn based on the principles of Christianity. Everyone who came to this country must know the principles and basis upon which our society governs its social interactions. Thus, the standards of Biblical Christianity must be taught in the schools, as was done until banned in 1962, so that all citizens know the theory and basis for the standards by which they are to govern themselves in a Christian society.
 
-Montesquieu wrote: "Society, notwithstanding all its revolutions, must repose on principles that do not change." "The Christian religion, which ordains that men should love each other, would without doubt have every nation blest with the best civil, the best political laws; because these, next to this religion, are the greatest good that men can give and receive."
+Montesquieu wrote: “Society, notwithstanding all its revolutions, must repose on principles that do not change.” “The Christian religion, which ordains that men should love each other, would without doubt have every nation blest with the best civil, the best political laws; because these, next to this religion, are the greatest good that men can give and receive.”
 
 When the hearts of the people are united to the Way of Christ, government can maximize its progress in its function to “form a more perfect union, establish justice, insure domestic tranquillity, provide for the common defense, promote the general welfare, and secure the blessings of liberty…” as stated in the Preamble to the Constitution.
 
@@ -44,7 +50,7 @@ Article III, Section 1: The judicial power of the United States shall be vested 
 
 Congress must reassert their authority over the Court and pass legislation to limit the authority of the Supreme Court in matters regarding the connection of the State in its relationship to God and the inclusion of Christian principle and ceremony in matters of government. Such is the principle and essence of HR 3799, the Constitution Restoration Act of 2004.
 
-`Notwithstanding any other provision of this chapter, the Supreme Court shall not have jurisdiction to review, by appeal, writ of certiorari, or otherwise, any matter to the extent that relief is sought against an element of Federal, State, or local government, or against an officer of Federal, State, or local government (whether or not acting in official personal capacity), by reason of that element's or officer's acknowledgment of God as the sovereign source of law, liberty, or government.'.
+`Notwithstanding any other provision of this chapter, the Supreme Court shall not have jurisdiction to review, by appeal, writ of certiorari, or otherwise, any matter to the extent that relief is sought against an element of Federal, State, or local government, or against an officer of Federal, State, or local government (whether or not acting in official personal capacity), by reason of that element’s or officer’s acknowledgment of God as the sovereign source of law, liberty, or government.’.
 
 Christianity has clearly been the dominant religion of the populace for the past two centuries of our nationhood. The Founding Fathers intended that the government be influenced by the principles of Christianity. It is time to wrest control from the grasp of those who are dedicated to recreating American into a nation whose highest standards are the ideals of Secular Humanism. To maintain the influence of Christian principle on our law and culture, it is appropriate that Congress recognize the appropriate place of authority of Christianity in relationship to other religions as a philosophical force in the shaping of law.
 

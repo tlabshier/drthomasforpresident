@@ -1,15 +1,20 @@
 ---
-title: Rapport, Confrontation, Change
-slug: rapport-confrontation-change
+title: "Rapport, Confrontation, Change"
+author: "Thomas Lee Abshier, ND"
 date: 2023-08-28
-id: 2770
-link: https://drthomasforpresident.com/2023/08/rapport-confrontation-change/
-status: publish
-protected: false
-categories:
-  - Psychology > Counseling
-  - Psychology
+module: CFE
+domains: [theology]
+topics: [justification, grace, forgiveness]
+thesis: "Rapport, Confrontation, and Change By: Thomas Lee Abshier, ND 8/28/2023 In my 30 years of counseling, my first intervention was often teaching a communication lesson."
+status: ESTABLISHED
+type: essay
+source_url: "https://drthomasforpresident.com/2023/08/rapport-confrontation-change/"
+wp_id: 2770
+wp_slug: "rapport-confrontation-change"
+wp_categories: ["Counseling", "Psychology"]
 ---
+
+# Rapport, Confrontation, Change
 
 **Rapport, Confrontation, and Change**
 
@@ -17,13 +22,14 @@ By: Thomas Lee Abshier, ND
 
 8/28/2023
 
+
 - In my 30 years of counseling, my first intervention was often teaching a communication lesson. A pair of UCLA professors developed this communication model as a general method of communication, conflict resolution, and counseling intervention. This model contains a sequence of three stages: 1) Rapport, 2) Confrontation, and 3) Change.  They developed this model from a meta-analysis of many different counseling methods. They saw these three stages as common to all interpersonal communications. Note: These steps are always present in every communication, but in familiar/trusting relationships, most of the steps are implicit/silent/unseen. The following is a more complete elaboration of the methods within each stage.
 
 - In this summary document, I have framed the steps as an interaction between an Offended party and an Offender. The Offended party in this scenario is taken to be the mature communicator/skilled helper and leads the offender through a series of steps that illuminate the Offender’s state of mind, motivation, feelings, past experiences, programming/nature/nurture, and habits. Upon completion of the Confrontation process, the Offender acknowledges/owns the need for change and becomes a co-seeker of strategies for alternate behavior. The change step may include processing past hurts, reactivity, and programming so the offender can change.
 
 - In everyday communication between unskilled communicators, the roles will often reverse. The Originally Offended may be triggered and react inappropriately to the Offender. (The professional helper/skilled communicator should be able to go through the steps and stay neutral throughout the entire process.) When the Originally Offended reacts inappropriately to the Original Offender, the interaction may need to be interrupted and delayed. The Originally Offended may need to process and reprogram his reactivity before continuing as the facilitator/helper. If the Original Offender is a skilled communicator, then it may be possible to agree to switch roles before proceeding. The processing and reprogramming for inappropriate reactivity may involve reliving past experiences, reframing, and changing his emotional-cognitive reaction to a normal/healthy/adult/Godly present-day reaction. The Originally Offended cannot facilitate the Original Offender toward Change when his judgment, perceptions, and reactions are overwhelmed by reactions to normal behaviors or the stories/drama/situations being reported/disclosed/discussed.
 
-- The first step is **Rapport**. The Originally Offended (taking on the role of the skilled communicator at this time) must hear/understand/feel the state of the Original Offender. The Offended must fully "get" the Offender before confronting him about his offense. This is especially true if the Offended responds strongly to the offense. This is challenging, but someone in the interaction must put on the role of the skilled communicator; otherwise, professional intervention is necessary.
+- The first step is **Rapport**. The Originally Offended (taking on the role of the skilled communicator at this time) must hear/understand/feel the state of the Original Offender. The Offended must fully “get” the Offender before confronting him about his offense. This is especially true if the Offended responds strongly to the offense. This is challenging, but someone in the interaction must put on the role of the skilled communicator; otherwise, professional intervention is necessary.
 
 - The importance of Rapport cannot be overemphasized. It is foundational that the Offended must know/feel/resonate with what was going on in the mind/heart of the Offender. What were they feeling and thinking, what were their perceptions of reality, and the reasons the offender did the thing that caused/stimulated the feelings of offense? Rapport includes understanding/duplicating the other person’s frame of mind/intent/thoughts (before confrontation about the offense). This duplication is done by a series of iterations/attempts to understand the frame of mind of the person who was the offender. That is the person who felt offended/wronged/hurt must walk in the offender’s shoes.  The offended party should ask all the questions that illuminate the offender’s state of mind, intent, circumstances as perceived, understanding, reason for acting… etc. The offended party confirms each of these understanding segments by repeating back/mirroring/checking for accuracy with statements such as, “It sounds like you felt/thought XYZ. Is that right?” Then, the offender continues on with the story—the Offended paraphrases intermittently to show that there was an understanding of the offender’s state of mind. When the offended party has duplicated the offender’s state of mind internally, as confirmed by the offended party’s accurately mirroring back the story to the offender, the initial Rapport step is complete.
 

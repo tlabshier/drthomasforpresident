@@ -1,17 +1,21 @@
 ---
-title: Dr Thomas 2028 Campaign Strategy
-slug: dr-thomas-2028-campaign-strategy
+title: "Dr Thomas 2028 Campaign Strategy"
+author: "Thomas Lee Abshier, ND"
 date: 2025-03-04
-id: 3198
-link: https://drthomasforpresident.com/2025/03/dr-thomas-2028-campaign-strategy/
-status: publish
-protected: false
-categories:
-  - Theology > Christianity > Apologetics
-  - Politics > Christianity in Politics
-  - Culture
-  - Politics
+module: CAP
+secondary_modules: [CEA]
+domains: [culture, philosophy, politics]
+topics: [presidential_platform, marriage_family, morality_ethics, governance, education, technology, healthcare]
+thesis: "The 2028 Presidential Campaign of Dr Thomas Abshier A Visionary Approach to National Transformation by Thomas Lee Abshier, ND 3/4/2025 My 2028 presidential campaign is not a traditional political endeavor but a comprehensive mission to fundamentally..."
+status: ESTABLISHED
+type: essay
+source_url: "https://drthomasforpresident.com/2025/03/dr-thomas-2028-campaign-strategy/"
+wp_id: 3198
+wp_slug: "dr-thomas-2028-campaign-strategy"
+wp_categories: ["Apologetics", "Christianity in Politics", "Culture", "Politics"]
 ---
+
+# Dr Thomas 2028 Campaign Strategy
 
 The 2028 Presidential Campaign of Dr Thomas Abshier
 
@@ -21,23 +25,29 @@ by Thomas Lee Abshier, ND
 
 3/4/2025
 
-My 2028 presidential campaign is not a traditional political endeavor but a comprehensive mission to fundamentally reshape American society through a holistic, spiritually grounded approach. The campaign's core objective is to create a "righteous society" built on eternal principles, focusing on transforming individual and collective consciousness.
+
+My 2028 presidential campaign is not a traditional political endeavor but a comprehensive mission to fundamentally reshape American society through a holistic, spiritually grounded approach. The campaign’s core objective is to create a “righteous society” built on eternal principles, focusing on transforming individual and collective consciousness.
+
 
 Preparatory Stages:
 
+
 - Intellectual and Spiritual Development
+
 
 - Continuous personal growth and refinement of philosophical principles
 
-- Writing and publishing a comprehensive book outlining the campaign's vision
+- Writing and publishing a comprehensive book outlining the campaign’s vision
 
 - Developing a robust, interconnected set of policy platforms addressing education, family, governance, and social structures
 
-- Complete the physics theory in a book, "The Theory of Absolutes."
+- Complete the physics theory in a book, “The Theory of Absolutes.”
+
 
 - Digital and Media Strategy
 
-- Develop a dedicated website serving as the campaign's intellectual hub
+
+- Develop a dedicated website serving as the campaign’s intellectual hub
 
 - Create a podcast and video blog to engage potential supporters
 
@@ -45,7 +55,9 @@ Preparatory Stages:
 
 - Aim for organic, exponential growth, one person shares with two friends, rather than traditional advertising
 
+
 - Supporter Cultivation
+
 
 - Build a base of committed followers through intellectual engagement
 
@@ -55,7 +67,9 @@ Preparatory Stages:
 
 - Target individuals seeking deeper meaning and societal transformation
 
+
 Unique Campaign Characteristics:
+
 
 - Reject conventional political campaigning methods
 
@@ -65,7 +79,9 @@ Unique Campaign Characteristics:
 
 - Develop a support network committed to implementing a new societal paradigm
 
+
 Key Campaign Principles:
+
 
 - Integrate Biblical principles with practical governance
 
@@ -75,7 +91,9 @@ Key Campaign Principles:
 
 - Develop strategies for family and societal harmony
 
+
 Strategic Growth Model:
+
 
 - Aim for exponential supporter growth
 
@@ -85,7 +103,9 @@ Strategic Growth Model:
 
 - Prepare comprehensive responses to potential opposition and critiques
 
+
 Personal Readiness:
+
 
 - Continuous self-improvement
 
@@ -95,7 +115,9 @@ Personal Readiness:
 
 - Be prepared to adjust strategies while maintaining core vision
 
+
 Technological Integration:
+
 
 - Explore AI as a tool for truth-seeking and policy development
 
@@ -103,6 +125,8 @@ Technological Integration:
 
 - Develop ethical frameworks for technological advancement
 
-Campaign Slogan and Vision: Potential campaign theme: "A vision for the Millennium?"
+
+Campaign Slogan and Vision: Potential campaign theme: “A vision for the Millennium?”
+
 
 Conclusion: The 2028 presidential campaign transcends traditional political approaches, presenting a holistic vision of societal transformation rooted in spiritual principles, intellectual rigor, and a commitment to collective moral growth.

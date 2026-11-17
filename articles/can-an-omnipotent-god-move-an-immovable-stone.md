@@ -1,16 +1,22 @@
 ---
-title: Can an Omnipotent God Move an Immovable Stone
-slug: can-an-omnipotent-god-move-an-immovable-stone
+title: "Can an Omnipotent God Move an Immovable Stone"
+author: "Thomas Lee Abshier, ND"
 date: 2019-03-20
-id: 473
-link: https://drthomasforpresident.com/2019/03/can-an-omnipotent-god-move-an-immovable-stone/
-status: publish
-protected: false
-categories:
-  - Theology > Christianity > Apologetics
-  - Theology > Christianity
-  - Theology
+module: CAP
+secondary_modules: [CPP]
+domains: [theology, philosophy, physics]
+topics: [creation, free_will, heaven_hell, pneumatology, ontology, spiritual_warfare, miracles, gravity]
+scripture: ["Matthew 4:5", "John 1:1"]
+mentions: ["Jesus", "Holy Spirit"]
+status: ESTABLISHED
+type: essay
+source_url: "https://drthomasforpresident.com/2019/03/can-an-omnipotent-god-move-an-immovable-stone/"
+wp_id: 473
+wp_slug: "can-an-omnipotent-god-move-an-immovable-stone"
+wp_categories: ["Apologetics", "Christianity", "Theology"]
 ---
+
+# Can an Omnipotent God Move an Immovable Stone
 
 Can an Omnipotent God Move an Immovable Stone?By: Thomas Lee Abshier, ND8/4/2008
 
@@ -28,11 +34,11 @@ The skeptics have set up a straw man, and proceed to win against this argument w
 
 But this argument resolves when we examine the character and capabilities of the Judeo-Christian God.  This God is Yahweh of the Bible, the creator of all of Heaven and Earth, the maker of all worlds of name and form.  This is the God who is the source of all Laws both natural and human. This God is capable of creating a universe with any conditions that He declares existent in that domain.  God can manifest the fullness of any trait He chooses, but mutually contradictory traits can only be expressed in separate, non-interacting domains, or specific situations separated by time and space.
 
-If God chooses to create a universe where He cannot move a stone, it is only because He has chosen to limit His own actions in that realm. Prior to creating the limits of that creation, God could create that universe to have any rule He wished. But, after the creation's rules have been established, He would have to break the rules He has established for Himself. God has chosen to limit Himself in His actions in the creation.
+If God chooses to create a universe where He cannot move a stone, it is only because He has chosen to limit His own actions in that realm. Prior to creating the limits of that creation, God could create that universe to have any rule He wished. But, after the creation’s rules have been established, He would have to break the rules He has established for Himself. God has chosen to limit Himself in His actions in the creation.
 
-The example of predetermination and free will both being true well illustrates the principle of separating domains to resolve a paradox. In predetermination, we speculate that God has a predetermined plan as to how the play of the universe will proceed in its perfection. But, He has created a universe which allows for Free Will, thus He does not that will upon mankind with absolute command authority. Rather, He has limited His command of man’s actions so as to only have influence on the human play. Such limitation allows God to function as an involved participant in the evolution of life. It allows God to be in relationship with humanity, rather than functioning as a commander or as the watchmaker who has wound it up and let it run. God has limited Himself in this world, intervening with command power only at occasional times, as opposed to requiring that all of man's actions follow His optimum, planned, or prescribed will. These principalities can both exist, even though contradictory, only if they occupy separate domains, and have a weak connection across the domain interface. Thus, predetermination and free will both operate in the earth-heaven system, but free will resides and has major effect on the earth plane, whereas predetermination has primary effect in the heaven plane. Predetermination and free will are contradictory conditions, but they can coexist and both be true when we consider that they exist in different domains and the two influence rather than command each other.
+The example of predetermination and free will both being true well illustrates the principle of separating domains to resolve a paradox. In predetermination, we speculate that God has a predetermined plan as to how the play of the universe will proceed in its perfection. But, He has created a universe which allows for Free Will, thus He does not that will upon mankind with absolute command authority. Rather, He has limited His command of man’s actions so as to only have influence on the human play. Such limitation allows God to function as an involved participant in the evolution of life. It allows God to be in relationship with humanity, rather than functioning as a commander or as the watchmaker who has wound it up and let it run. God has limited Himself in this world, intervening with command power only at occasional times, as opposed to requiring that all of man’s actions follow His optimum, planned, or prescribed will. These principalities can both exist, even though contradictory, only if they occupy separate domains, and have a weak connection across the domain interface. Thus, predetermination and free will both operate in the earth-heaven system, but free will resides and has major effect on the earth plane, whereas predetermination has primary effect in the heaven plane. Predetermination and free will are contradictory conditions, but they can coexist and both be true when we consider that they exist in different domains and the two influence rather than command each other.
 
-As author of the rule, "that a stone shall be immoveable", God is fully in control of that stone's immovability. To create a universe requires rules, boundaries, and limits be set for the creation, creatures, and creator. God always has the power of His creative Word, and can use it to declare the existence of limits (e.g. that the boundary of life and death shall remain obscured from human vision).
+As author of the rule, “that a stone shall be immoveable”, God is fully in control of that stone’s immovability. To create a universe requires rules, boundaries, and limits be set for the creation, creatures, and creator. God always has the power of His creative Word, and can use it to declare the existence of limits (e.g. that the boundary of life and death shall remain obscured from human vision).
 
 God can use His Word to declare that the creation shall manifest in a certain manner which both man and He/Himself/God shall be subject to. God could declare that a stone shall be immovable, but that stone is immoveable only because God has chosen to declare it so. Such is the nature of the universe; it has a set of rules, laws, limits, and boundaries. And, one of those limits that He can choose to impose upon the universe is to honor His self-imposed limitations.
 
@@ -44,7 +50,7 @@ In this situation where God was using His power to declare self-limitation of ac
 
 Thus, the immoveable stone is simply an example of one of the conditions that could be declared by God as He defines the character of His creation. Thus, God is always potent, powerful, and capable of all actions at all times in His innate nature, but He does not choose to act out his potential at all times. It is this limitation on God’s power that makes the world predictable. God is dependable and has created a rule-based, force-reaction based universe which provides adequate stability upon which to live our lives, but sufficient chaotic variability and divine intervention to create an interesting and constantly challenging platform.
 
-The paradox of "the irresistible force and the immovable object", resolves by separating the two concepts (irresistible force and immovable object) into two different domains. The irresistible force is the primary principle operating in the domain of the pre-creation, where the creative declarative rule-establishing Word of God can define and establish any rule set for the creation.
+The paradox of “the irresistible force and the immovable object”, resolves by separating the two concepts (irresistible force and immovable object) into two different domains. The irresistible force is the primary principle operating in the domain of the pre-creation, where the creative declarative rule-establishing Word of God can define and establish any rule set for the creation.
 
 The immovable object does not exist outside of the creative, declarative Word of God. In other words, the immovable object is a creation not a creator. Thus, the immovable object exists only in the domain of the post-creation where the rules of the physical universe have been fully established. In the post-creation domain, God has already set limits on the creation, creatures, and Creator, and all these parties must operate by the rules established by God.
 
@@ -62,8 +68,8 @@ Gen 1:1 In the beginning God created the heaven and the earth.  And the earth w
 
 Thus, the contradiction resolves; the God of the Bible is capable of all things and is thus Omnipotent. He is capable of all things, including moving an immovable stone, but only after having changed His declaration of self-limitation with regard to moving the stone, and given Himself permission to move it.
 
-A further examination of the prerogatives of omnipotence is the ability to create a universe in any manner He chooses, including the allowance of exceptions and conditions where rules are violated. Thus, God can choose to declare as a post-creation rule, “I hereby declare this stone immoveable. But, this stone may be moved if I choose to show that I can move an immovable stone when a skeptic of my existence challenges me to move it and prove the fact of my irresistible omnipotent force." But, such a caveat would not be embedded in the creation because the Bible has revealed that God will not perform to prove Himself existent.
+A further examination of the prerogatives of omnipotence is the ability to create a universe in any manner He chooses, including the allowance of exceptions and conditions where rules are violated. Thus, God can choose to declare as a post-creation rule, “I hereby declare this stone immoveable. But, this stone may be moved if I choose to show that I can move an immovable stone when a skeptic of my existence challenges me to move it and prove the fact of my irresistible omnipotent force.” But, such a caveat would not be embedded in the creation because the Bible has revealed that God will not perform to prove Himself existent.
 
-Matthew 4:5 Then the devil took Him up into the holy city, set Him on the pinnacle of the temple,  and said to Him, "If You are the Son of God, throw Yourself down. For it is written: 'He shall give His angels charge over you,' and, 'In their hands they shall bear you up, Lest you dash your foot against a stone.'"  Jesus said to him, "It is written again, 'You shall not tempt the LORD your God.'"
+Matthew 4:5 Then the devil took Him up into the holy city, set Him on the pinnacle of the temple,  and said to Him, “If You are the Son of God, throw Yourself down. For it is written: ‘He shall give His angels charge over you,’ and, ‘In their hands they shall bear you up, Lest you dash your foot against a stone.’”  Jesus said to him, “It is written again, ‘You shall not tempt the LORD your God.’”
 
 We see numerous examples of this self-limitation in the operation of nature, and the backdoor caveat inserted to allow for miracles. In general God does not intervene and lets the laws of nature operate without interference or exception. But, in the case of forming the dust of the earth to create plant, animal, and man, God has injected spiritual force, the command of Word, to operate and modify the course of natural law. Such caveats and exceptions are not examples of the law being broken, but rather are examples that give illustration to a more full elaboration of the details of the Law.

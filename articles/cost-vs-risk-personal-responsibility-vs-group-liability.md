@@ -1,41 +1,59 @@
 ---
-title: Cost vs. Risk Personal Responsibility vs. Group Liability
-slug: cost-vs-risk-personal-responsibility-vs-group-liability
+title: "Cost vs. Risk Personal Responsibility vs. Group Liability"
+author: "Thomas Lee Abshier, ND"
 date: 2019-03-25
-id: 581
-link: https://drthomasforpresident.com/2019/03/cost-vs-risk-personal-responsibility-vs-group-liability/
-status: publish
-protected: false
-categories:
-  - Politics > Libertarian Politics
-  - Politics
+module: CEA
+domains: [politics, culture, theology]
+topics: [governance, economics, administrative_state, abortion, judgment, suffering, constitutional_law, drug_policy]
+mentions: ["Michael"]
+thesis: "Here is a summary of the key points from the discussion: 1. Manufacturers face tradeoffs between cost, safety and risk in product design."
+status: ESTABLISHED
+type: essay
+source_url: "https://drthomasforpresident.com/2019/03/cost-vs-risk-personal-responsibility-vs-group-liability/"
+wp_id: 581
+wp_slug: "cost-vs-risk-personal-responsibility-vs-group-liability"
+wp_categories: ["Libertarian Politics", "Politics"]
 ---
+
+# Cost vs. Risk Personal Responsibility vs. Group Liability
 
 Here is a summary of the key points from the discussion:
 
+
 1. Manufacturers face tradeoffs between cost, safety and risk in product design. Consumers should be fully informed to make purchase decisions that reflect their preferences on these factors.
 
-2. Ford's decision not to include a $13 part that could have prevented Pinto explosions shows the need for transparency around product risks and costs. Consumers should have the choice to pay for additional safety features.
+
+2. Ford’s decision not to include a $13 part that could have prevented Pinto explosions shows the need for transparency around product risks and costs. Consumers should have the choice to pay for additional safety features.
+
 
 3. It is difficult to determine the optimal level of safety and cost for products. A continuum exists from the bare minimum to totally safe but prohibitively expensive. Tradeoffs must be made.
 
+
 4. Consumers should decide their acceptable risk-cost balance, but they require full information to do so. It is debatable whose responsibility it is to provide this information.
+
 
 5. The market and government both have roles to play. The market provides choice, while government can mandate transparency and collect risk data. But excessive regulation stifles industry.
 
+
 6. Transparency around product risks and costs could gradually emerge if consumers demand it. Market forces or government mandates could drive changes, or a hybrid approach.
+
 
 7. Local and state governments could implement disclosure policies or preferences for transparent manufacturers, before national policies. This allows for experimentation and diversity.
 
+
 8. The overall goal is a society where manufacturers disclose cost-risk information and consumers demand it, enabling more informed purchase decisions. This represents a shift in the social paradigm.
+
 
 9. For this to happen, society must recognize the moral superiority of transparency and adopt a commitment to Godly principles and righteous moral standards.
 
- 
+
+
+
 
 Thomas Lee Abshier, ND
 
 1/21/2011
+
 
 —– Original Message —–
 
@@ -47,23 +65,31 @@ Sent: Friday, January 21, 2011 11:18 AM
 
 Subject: Milton Friedman Puts a Young Michael Moore in His Place
 
+
 Check out this YouTube video http://www.youtube.com/watch?v=cD0dmRJ0oWg&feature=youtube_gdata_playerThanks,John‹(•¿•)›
+
 
 On Jan 21, 2011, at 12:09 PM,
 
-"Thomas Lee Abshier, ND" wrote:
+“Thomas Lee Abshier, ND” wrote:
+
 
 A teenage Michael Moore (or so it is presented, I do not know if this was Michael Moore or not) confronts Milton Friedman’s defense of the free market.  Moore relates the story of Ford’s decision not to put in a $13.00 plastic piece which would have prevented the explosion of the Ford Pinto.  The company had chosen not to put that piece in place based on the cost of the part, even after knowing that statistically, 200 people would probably die as a result of this cost-saving omission.
 
 The bottom line: People need to be informed of the known risks they are taking.  The manufacturer, drug maker, architect, scientist, theologian, economist, salesman, repairman, doctor, etcetera should disclose the known risks and deficiencies of a product, service, concept, and philosophy.
 
+
 The debate is typically about winning, enrolling another person in your perspective.  This is but another example of the culture-wide obscuring of the truth that has been institutionalized.  Debate, salesmanship, and theory should all include explicit consideration of the positives, negatives, and the unknowns.  The winner of the debate should be the person who gives the most complete analysis of all factors, and chooses a polarity, and then justifies it.
+
 
 In the debate, Milton Friedman rebutted Michael Moore’s point based on the fact that there will be an unavoidable/inevitable compromise between risk and cost in every manufacturing decision.  He introduced the concept of informed decision but did not examine the implication or implementation of it.
 
+
 Internal to the consideration of making an informed decision is the issue of the moral responsibility of someone providing that information, and someone processing that information in making that decision.  We can assume that Friedman felt that the market, with its impersonal cause and effect forces, was adequate to produce a resolution of these issues.
 
+
 Of course, the market will always provide an equilibration between demand and supply, whether the product is information, goods, or services.  But the question is whether men should apply forceful remedies (governmental mandate) other than simply offering solutions in the market?
+
 
 Did he examine or conclude who was responsible for the customer making that informed decision? Is it the responsibility of the customer to do the research into the cost-benefit considerations on every product he is considering prior to purchasing?  Is it the responsibility of the manufacturer to do research on every possible cost-risk comparison?  Should government mandate enforce force manufacturers doing the research, publish the data, and salesmen to educate the customer?  Are printed warnings and signs adequate to inform the customer/user of known or inherent operating risks?  Should a government agency serve the function of being a risk and failure data collection center for reporting and access to consumer data?  Should people be forced to pay for that service by taxes, or should it be supported by a fee for use basis?  Should the economy and society provide this service through a private company initiate or take over that function from government once it has been initiated?  Should the media and public debate raise the awareness of this issue to the point of action and societal implementation?
 
@@ -71,19 +97,26 @@ All these questions bring in the philosophical considerations raised by the Libe
 
 There is a place for all the stations of life, in particular, government, market, groups, and the individual.
 
+
 * Government, if moral/Godly, can provide the minimal framework for industry and society to function. * The market mediates satisfaction of the group-individual interface on an impersonal basis.  But, without a provision for information input, processing, and execution, the market functions poorly in evolving to higher levels of consumer satisfaction.
+
 
 * Groups are the natural expression of individuals with common need, interest, or characteristic.  The group can function as a surrogate advocate for individual needs, and being larger in influence than the individual, can speak with more power to the market and government.
 
+
 * As individuals, exerting personal power to persuade, negotiate, and set boundaries is adequate to satisfy most individual needs.  Personal power is the elemental unit that composes and must be used to influence the market, groups, and government.
 
+
 A complex flow chart between individuals, groups, and government could represent the organic/natural flow of power, information, and responsibility that produces the optimal level of freedom, happiness, and prosperity.  When each individual lives according to his best computation of the optimal moral code, and stays open to modifying it when he realizes a better standard, the society continually improves in its civility.  As a general first implementation of social code, I believe the Judeo-Christian ethic has the greatest probability of evolving the society into that optimal experience of freedom, happiness, and prosperity.  After that foundation is laid, it is then necessary for the individual, group, market, and government to establish proper domains of authority and function.  And then, each domain must establish laws/policies that codify the prescribed boundaries of acceptable behavior for their particular degrees of freedom.
+
 
 The issue of diagramming and planning society is obviously complex.  It is too detailed to administer by an all-powerful autocrat or bureaucracy.  The fact is, that individual satisfaction is the purpose of society, and there are too many individual needs to meet for a central planner/lawmaker to micro-manage the behavior of every individual.  Thus, autonomy and self-government are necessary on some level.  To the extent that the individual is always considering the needs of his fellow man, there will be less and less need for the enforcement of a group moral code upon individuals who stray from the moral center.  Thus, living by the commandment, “Love the Lord your God with all your heart, mind and strength, and your neighbor as yourself.” ends up being the center of the moral code that produces world of optimized freedom, happiness, and prosperity.
 
 T.
 
+
 ---
+
 
 Previous version of this article:
 
@@ -121,7 +154,7 @@ But, the one aspect of the system that would be easy to implement is the transpa
 
 Thus, the issue becomes how to force companies to disclose information about the deficiencies and costs of their product.  Typically, government is the agent that exerts force and produces compliance in the face of resistance or pain.  The market functions in the same manner.  It gives feedback to the manufacturer/service provider about the desirability of a product in comparison to alternative expenditures.
 
-Market theory posits that a product will survive or fail based upon its inherent value in comparison to other alternatives.  But, there are flaws in this argument, as illustrated by a phrase used by Wall Street traders, “The market has an ability to stay irrational longer than you have the ability to stay solvent.”  In other words, bubbles, momentum, habit, and fad, can move the market in directions that really do not reflect very important market forces.  The same is true on the micro level with the consumer choosing to buy or not buy a superior product because of hype, ignorance, misinformation, or habit.  In other words, it's hard to create an ideal and transparent world for people to make the best decisions to maximize their own welfare.
+Market theory posits that a product will survive or fail based upon its inherent value in comparison to other alternatives.  But, there are flaws in this argument, as illustrated by a phrase used by Wall Street traders, “The market has an ability to stay irrational longer than you have the ability to stay solvent.”  In other words, bubbles, momentum, habit, and fad, can move the market in directions that really do not reflect very important market forces.  The same is true on the micro level with the consumer choosing to buy or not buy a superior product because of hype, ignorance, misinformation, or habit.  In other words, it’s hard to create an ideal and transparent world for people to make the best decisions to maximize their own welfare.
 
 If the state tries to micro-manage the quality of every product and service by penalty and rule, the state will grow to gargantuan proportions.  And, if it assumes this role, it will be the de facto party responsible for all safety decisions (and the cost/risk calculations/tradeoffs) for every consumer product).
 
@@ -154,5 +187,6 @@ When the town-group is the medium of social-industry demand, the individual is p
 We are discussing here the process of shaping other groups by our stand and advocacy and in turn influencing the next larger group ideas/ideals to form around my desires.  Choosing a town that resonates with my values is a good first step in social participation.  Ultimately the goal is to create a reasonably homogenous society with the vast majority embracing the Judeo-Christian ethic.
 
 Of course, in respect to the Founders’ principle elaborated in the 10th Amendment, the moral codes, manufacturing standards, disclosure patterns, religious creeds, sexual behaviors, drug restrictions, etcetera would not be imposed on a national level.  The national law should be concerned with defense and the few other enumerated areas of authority.  The states and localities should be free to experiment in the domains of market solutions, personal and interpersonal behavior, ideas, speech, and theory.  Nationally imposed standards prevent the locality from exercising their option to shape their small group (town) environment as they so choose.
+
 
 T.

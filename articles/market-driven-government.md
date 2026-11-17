@@ -1,41 +1,59 @@
 ---
-title: Market Driven Government
-slug: market-driven-government
+title: "Market Driven Government"
+author: "Thomas Lee Abshier, ND"
 date: 2019-03-25
-id: 579
-link: https://drthomasforpresident.com/2019/03/market-driven-government/
-status: publish
-protected: false
-categories:
-  - Politics > Libertarian Politics
-  - Politics
+module: CEA
+domains: [theology, philosophy, economics]
+topics: [governance, economics, morality_ethics, constitutional_law, education, gender_sexuality, creation, capitalism, miracles, old_testament, natural_law, judgment, marriage_family, suffering, socialism]
+mentions: ["Jesus", "Christ", "God the Father", "Holy Spirit", "James Madison"]
+status: ESTABLISHED
+type: essay
+source_url: "https://drthomasforpresident.com/2019/03/market-driven-government/"
+wp_id: 579
+wp_slug: "market-driven-government"
+wp_categories: ["Libertarian Politics", "Politics"]
 ---
+
+# Market Driven Government
 
 Here is a summary of the key points from the essay:
 
+
 1. A market-driven government that relies solely on economic forces to regulate behavior and allocate resources faces challenges. While harnessing self-interest, it may neglect other human needs.
+
 
 2. Government restrictions are needed to moderate self-interest and excess. Laws reflecting moral principles optimize freedom by establishing boundaries.
 
-3. An omniscient database and algorithm would be needed to implement a market-only system, transferring regulatory power to programmers. Someone's morality would be imposed.
 
-4. Godliness and biblical morality provide a superior method of social regulation. The Constitution reflects biblical patterns but depends on citizens' self-government.
+3. An omniscient database and algorithm would be needed to implement a market-only system, transferring regulatory power to programmers. Someone’s morality would be imposed.
+
+
+4. Godliness and biblical morality provide a superior method of social regulation. The Constitution reflects biblical patterns but depends on citizens’ self-government.
+
 
 5. Godless approaches eliminate God as an irrelevant consideration, but optimal prosperity requires including God as a partner.
 
+
 6. Law is legislated morality. Allowing state/local experimentation would maximize freedom within moral boundaries.
 
-7. The U.S. was implicitly founded as a Christian nation. Removing Christianity from public life has weakened the nation's moral foundation and threatens liberty.
 
-8. The economy-only solution transfers the government's role to an economic "feedback loop." But feedback lags, and nonmaterial human needs may remain unmet.
+7. The U.S. was implicitly founded as a Christian nation. Removing Christianity from public life has weakened the nation’s moral foundation and threatens liberty.
+
+
+8. The economy-only solution transfers the government’s role to an economic “feedback loop.” But feedback lags, and nonmaterial human needs may remain unmet.
+
 
 9. A mix of government, market forces, groups and individuals — guided by moral principles — optimizes freedom, prosperity and happiness.
 
-10. Ultimately, each citizen's adherence to Godly self-restraint and moral self-regulation, more than any system, enables limited government.
 
- 
+10. Ultimately, each citizen’s adherence to Godly self-restraint and moral self-regulation, more than any system, enables limited government.
+
+
+
+
 
 By Thomas Lee Abshier, ND8/8/2008
+
 
 —– Original Message —–
 
@@ -47,19 +65,23 @@ Sent: Friday, August 08, 2008 2:25 PM
 
 Subject: How a society could work without government
 
-I thought you might enjoy reading the attached essay below (heavily adorned with footnotes and other references) about how a society without government might work. This author's ideas (based on his references) fit with the ideas of David Friedman (Milton Friedman's son).
 
-"Let Go and Let the Market" by Brian Gladish
+I thought you might enjoy reading the attached essay below (heavily adorned with footnotes and other references) about how a society without government might work. This author’s ideas (based on his references) fit with the ideas of David Friedman (Milton Friedman’s son).
+
+“Let Go and Let the Market” by Brian Gladish
 
 – John
+
 
 Market Driven Government
 
 Commentary on the Libertarian Philosophy of replacing Constitutional Government with Market Forces in an effort to create a Limited Government
 
+
 By: Thomas Lee Abshier, ND
 
 8/8/2008
+
 
 In the Gladish piece, this Libertarian-type philosophy has impugned the entire Constitutional system of Legislative, Judicial, and Executive government as inherently flawed by noting the fact that elected representatives are unavoidably subject to the temptation of enriching self-interest. The Free Market advocate declares that individual self-interest is the most powerful and natural force directing human behavior, and as such we should simply design a system to harness the power of self-interest, rather than trying to shackle or direct it by a religion-based morality with laws and enforcement to direct the group behavior.
 
@@ -94,6 +116,7 @@ In such a case, the citizen born into such a society is blessed, and should glad
 On the other hand, being born into an unGodly, unjust, unrighteous, self-enriching, and corrupted-by-sale-of-influence system, each new member of society should do all that he can to influence others to change their hearts, minds, and behaviors toward Righteousness. In this way, the corruption of self-interest can be eliminated by a nation full of individuals who oppose serving an unGodly system.
 
 People inherently like good and Godly behavior even though every man is tempted by a host of soul hungers to follow unGodliness. In the economic arena, the value of a person’s excellent, moral contribution would be evaluated by the unseen hand of the market and rewarded appropriately. Likewise, the reward of Godliness automatically gives incentive to right and good behavior without the intermediary step of government establishing the standards of good behavior and enforcing it by police and bureaucrats.
+
 
 Consideration of the mechanics of the Market-Driven Government:
 
@@ -163,11 +186,14 @@ Our Founders recognized that the Constitutional system of government depended up
 
 “We have no government armed with power, capable of contending with human passions unbridled by morality and religion. Avarice, ambition, revenge, or gallantry, would break the strongest cords of our Constitution as a whale goes through a net. Our Constitution was made only for a moral and religious people. It is wholly inadequate to the government of any other.” John Adams, address to the military,
 
+
 Oct 11th, 1798.
 
 “Religion is the basis and foundation of government.” James Madison, June 20, 1785, The papers of James Madison, 1973, Volume 8, pgs 299-304.
 
+
 “We have staked the whole future of American civilization, not upon the power of government, far from it. We have staked the future of all of our political institutions upon the capacity of mankind for self government; upon the capacity of each and all of us to govern ourselves, to control ourselves, to sustain ourselves according to the 10 commandments of God.” Gary DeMar, God and Government – A Biblical and Historical study, 1982, pgs 137-138.
+
 
 “We have staked the future of all of our political institutions upon the capacity of each of our selves to govern ourselves according to the moral principles of the 10 commandments.” James Madison
 
@@ -195,19 +221,26 @@ Man’s self-interest appears to be the primary driving force that drives the so
 
 Lutz and Heineman studied 15,000 quotes from the founding fathers and they reported that 34% of all quotes were directly from the Bible. Lutz notes that after the Bible, the most frequently cited quotes were from Montesquieu (8.3%), Locke (2.9%) and Blackstone (7.9%). All these men were Christian, and each commented on the various social institutions from the Christian perspective. John Locke provided the commentary on economics, Blackstone provided the legal commentary, and Montesquieu provided the political commentary.
 
-Man, considered as a creature, must necessarily be subject to the laws of his Creator, for he is entirely a dependent being… And consequently, as man depends absolutely upon his Maker for every thing, it is necessary that he should in all points conform to his Maker's will. This will of his Maker is called the law of nature… This law of nature, being coeval [coexistent] with mankind and dictated by God himself, is of course superior in obligation to any other. It is binding over all the globe, in all countries, and at all times: no human laws are of any validity, if contrary to this; and such of them as are valid derive all their force, and all their authority, mediately or immediately, from this original… The doctrines thus delivered we call the revealed or divine law and they are to be found only in the Holy Scriptures. These precepts, when revealed, are found upon comparison to be really a part of the original law of nature… Upon these two foundations, the law of nature and the law of revelation, depend all human laws; that is to say, no human laws should be suffered to contradict these. Sir William Blackstone, Commentaries on the Law of England, Volume 1, pgs 39, 41, 42, 1771
+
+Man, considered as a creature, must necessarily be subject to the laws of his Creator, for he is entirely a dependent being… And consequently, as man depends absolutely upon his Maker for every thing, it is necessary that he should in all points conform to his Maker’s will. This will of his Maker is called the law of nature… This law of nature, being coeval [coexistent] with mankind and dictated by God himself, is of course superior in obligation to any other. It is binding over all the globe, in all countries, and at all times: no human laws are of any validity, if contrary to this; and such of them as are valid derive all their force, and all their authority, mediately or immediately, from this original… The doctrines thus delivered we call the revealed or divine law and they are to be found only in the Holy Scriptures. These precepts, when revealed, are found upon comparison to be really a part of the original law of nature… Upon these two foundations, the law of nature and the law of revelation, depend all human laws; that is to say, no human laws should be suffered to contradict these. Sir William Blackstone, Commentaries on the Law of England, Volume 1, pgs 39, 41, 42, 1771
+
 
 John Locke, the father of modern capitalistic economics states that, “The Bible is one of the greatest blessings bestowed by God on the children of men. It has God for its author; salvation for its end, and truth without any mixture for its matter.” This quote was taken from “Commentaries on the Laws of England”, which was used as one of our textbooks for a legal education until about 1900.
 
+
 The great evangelist Charles Finny became a Christian while studying to be a lawyer while reading Blackstone’s commentaries. The Bible and Blackstone’s commentaries were the primary legal references in all legal cases in this country until around 1900. In the 1920s, the education system began to use the educational theories of John Dewey and others. These advocates for a Godless worldview began to rewrite history from an economic perspective instead of the Judeo-Christian perspective. The coalition of anti-God forces that agitated for this change in foundational perspective were advocates were the anarchists and communists such as Margaret Sanger, John Dewey, etc.
 
+
 “The belief in political fixity, of the sanctity of some form of state consecrated by the efforts of our fathers and hallowed by tradition, is one of the stumbling blocks in the way of orderly and directed change.” John Dewey, The Public and its Problems, 1927, pg 34.
+
 
 Contrast this with Montesquieu’s desire to create a nation based upon Godliness.
 
 “The Christian religion, which ordains that men should love each other, would without doubt have every nation blessed with the best civil, the best political laws; because these, next to this religion are the greatest good that men can give and receive.” Montesquieu, Spirit of Laws, 1748, volume 2, pgs 125-26
 
+
 As mentioned above, some of the prominent forces motivating the pursuit of forming a Libertarian market-driven society is correction of problems such as the corruption of public officials, and the repulsion against being governed by a God who has rules, laws, and standards that we must follow. The individual is assumed to have an adequate internal moral compass to pursue his own best self-interest, and that no government has the right to direct the individual in requiring an individual to act under threat of force. Likewise, the intervention of government acting as the agent of God in coordinating and regulating the affairs of men is unnecessary.
+
 
 The Libertarian philosophy allows for personal worship of a deity, but stands against establishing laws that impose punishment for breaking standards which appear to reflect a Judeo-Christian ethic of a victimless crime. The Libertarian philosophy is not a fully elaborated or definite system, in that its philosophy spans the spectrum from anarchy to minimum government. The source of its moral guidance in personal action lies in the precept that men act according to their perceived benefit, as the individual is expected to do whatever advances his self-interest. The market-governed society would eliminate the possibility of the command power of government corrupting the distribution of resources. This philosophy eliminates the temptation to use governmental power for personal gain.
 

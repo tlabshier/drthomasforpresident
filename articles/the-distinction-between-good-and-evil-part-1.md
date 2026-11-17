@@ -1,36 +1,44 @@
 ---
-title: The Distinction between Good and Evil – Part 1
-slug: the-distinction-between-good-and-evil-part-1
+title: "The Distinction between Good and Evil – Part 1"
+author: "Thomas Lee Abshier, ND"
 date: 2019-03-20
-id: 484
-link: https://drthomasforpresident.com/2019/03/the-distinction-between-good-and-evil-part-1/
-status: publish
-protected: false
-categories:
-  - Theology > Christianity > Apologetics
-  - Theology > Christianity
-  - Theology
+module: CAP
+domains: [theology, philosophy, culture]
+topics: [suffering, free_will, pneumatology, heaven_hell, drug_policy, repentance, marriage_family, parables]
+mentions: ["Jesus", "Christ", "God the Father", "Holy Spirit"]
+thesis: "By: Thomas Lee Abshier, ND Original Message From: Steven To: Thomas Lee Abshier, ND Sent: Thursday, October 20, 2005 1:51 PM Subject: Resist not evil Thomas, I dont have the energy or the interest to engage in a tug-of-war right now."
+status: ESTABLISHED
+type: essay
+source_url: "https://drthomasforpresident.com/2019/03/the-distinction-between-good-and-evil-part-1/"
+wp_id: 484
+wp_slug: "the-distinction-between-good-and-evil-part-1"
+wp_categories: ["Apologetics", "Christianity", "Theology"]
 ---
+
+# The Distinction between Good and Evil - Part 1
 
 By: Thomas Lee Abshier, ND
 
+
 —– Original Message —–
 
-From: "Steven"
+From: “Steven”
 
-To: "Thomas Lee Abshier, ND"
+To: “Thomas Lee Abshier, ND”
 
 Sent: Thursday, October 20, 2005 1:51 PM
 
 Subject: Resist not evil
 
-Thomas, I don't have the energy or the interest to engage in a tug-of-war right now.
 
-As I see it, all things are within God's dominion. That means All Things… with nothing outside of His embrace, nothing outside of His Being. He is the creator of both good and bad, day and night, perfection and imperfection and HE LIVES WITHIN ALL.Close examination will reveal that good and bad are inseparable from each other and require each other for their existence. Over time, good morphs into bad and bad morphs into good. When one is identified with the good, and one feels it is their duty to destroy the bad, that leads to a self perpetuating cycle of struggle where the so called good and bad feed upon each other. There is no future in this. That is why Christ said "resist not evil."To find real wisdom, one needs to expand the context. From a context that is larger than good and bad, "us versus them", one is able to offer something of value to resolve conflict, to heal, and to bless. Then the agenda changes. It is no longer an agenda of trying to crush the enemy, but to recognize that the enemy is not separate from oneself.His advice to "love thy neighbor as thyself" is extremely profound. This love is another way of speaking about the expanded context to which I refer. I invite you and the others on this distribution list to expand your context and to relax your grip on the struggle to crush the perceived enemy, whatever his name might be.Recall the climax of the movie, The Matix. Neo's victory did not occur because he was able to get stronger than his enemy. Instead he did something completely unexpected. He jumped inside the enemy and occupied the same space. That changed everything. Highly instructive.
+Thomas, I don’t have the energy or the interest to engage in a tug-of-war right now.
+
+As I see it, all things are within God’s dominion. That means All Things… with nothing outside of His embrace, nothing outside of His Being. He is the creator of both good and bad, day and night, perfection and imperfection and HE LIVES WITHIN ALL.Close examination will reveal that good and bad are inseparable from each other and require each other for their existence. Over time, good morphs into bad and bad morphs into good. When one is identified with the good, and one feels it is their duty to destroy the bad, that leads to a self perpetuating cycle of struggle where the so called good and bad feed upon each other. There is no future in this. That is why Christ said “resist not evil.”To find real wisdom, one needs to expand the context. From a context that is larger than good and bad, “us versus them”, one is able to offer something of value to resolve conflict, to heal, and to bless. Then the agenda changes. It is no longer an agenda of trying to crush the enemy, but to recognize that the enemy is not separate from oneself.His advice to “love thy neighbor as thyself” is extremely profound. This love is another way of speaking about the expanded context to which I refer. I invite you and the others on this distribution list to expand your context and to relax your grip on the struggle to crush the perceived enemy, whatever his name might be.Recall the climax of the movie, The Matix. Neo’s victory did not occur because he was able to get stronger than his enemy. Instead he did something completely unexpected. He jumped inside the enemy and occupied the same space. That changed everything. Highly instructive.
 
 Best regards,
 
 Steven
+
 
 10/22/05
 

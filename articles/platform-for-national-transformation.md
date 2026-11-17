@@ -1,22 +1,30 @@
 ---
-title: Platform for National Transformation
-slug: platform-for-national-transformation
+title: "Platform for National Transformation"
+author: "Thomas Lee Abshier, ND"
 date: 2019-03-25
-id: 587
-link: https://drthomasforpresident.com/2019/03/platform-for-national-transformation/
-status: publish
-protected: false
-categories:
-  - Politics > Christianity in Politics
-  - Politics > Platform
-  - Politics
+module: CEA
+secondary_modules: [CHR]
+domains: [culture, politics, economics]
+topics: [constitutional_law, education, governance, marriage_family, healthcare, christian_nation, electoral_system, gender_sexuality, immigration, environmentalism, federal_reserve, taxation, abortion, revolutionary_war]
+mentions: ["Jesus", "Christ"]
+thesis: "Thomas Lee Abshier, ND 1/5/2010 Principles of a Christian Nation: Return to acknowledging Christianity as our moral, societal, and legal foundation Reject “Separation of Church and State” preventing consideration of God in legislation Establish law based upon Christian principles."
+status: ESTABLISHED
+type: essay
+source_url: "https://drthomasforpresident.com/2019/03/platform-for-national-transformation/"
+wp_id: 587
+wp_slug: "platform-for-national-transformation"
+wp_categories: ["Christianity in Politics", "Platform", "Politics"]
 ---
+
+# Platform for National Transformation
 
 Thomas Lee Abshier, ND
 
 1/5/2010
 
+
 Principles of a Christian Nation:
+
 
 - Return to acknowledging Christianity as our moral, societal, and legal foundation
 
@@ -36,7 +44,9 @@ Principles of a Christian Nation:
 
 - Preach the Good News of Christ to the Whole World, to People of all Faiths
 
+
 States Rights:
+
 
 - Return the relationship between States and the Federal government to the 10th Amendment template.
 
@@ -50,13 +60,17 @@ States Rights:
 
 - State jurisdiction over all social organization issues such as health care, education, environment, energy…
 
+
 Legislating Morality:
+
 
 - All moral/behavioral laws shall be the purview of local and State governments.
 
 - All vices: tobacco, alcohol, drugs, pornography, gambling, prostitution… shall be regulated by State and Local law, not Federal.
 
+
 Line-item veto:
+
 
 - One concept one bill
 
@@ -64,7 +78,9 @@ Line-item veto:
 
 - All bills are posted on the Internet before voting and delayed on their vote until the public debate has come to a cultural consensus.
 
+
 Stop Judicial Activism:
+
 
 - Amend the Constitution, do not bend or rewrite it by Judicial Activism
 
@@ -74,7 +90,9 @@ Stop Judicial Activism:
 
 - Legislation: Reverse Everson v. Board of Education (1947 Supreme Court Ruling introducing the historically unknown concept, & opposite to the intention of the Founders, “Separation of Church and State”)
 
+
 America was founded as a Christian Nation:
+
 
 - Christian principles should be the moral foundation for law and social relationships
 
@@ -86,25 +104,33 @@ America was founded as a Christian Nation:
 
 - Christian Principles as the governing pattern for Executive orders, Legislation, Judicial decisions, and Administrative law
 
+
 National Sovereignty:
+
 
 - Reverse trends toward Globalism, New World Order, Socialism
 
 - Break treaties that violate the US Constitution
 
+
 Voting:
+
 
 - Require positive identification
 
 - Create an auditable paper trail for all votes
 
+
 Privacy:
+
 
 - All domestic electronic, written, and voice communications shall be private.
 
 - Exceptions: conspiracy to commit illegal or revolutionary activities.
 
+
 Economic Recovery and Prosperity:
+
 
 - Free Market, Capitalist economy, with transparent accountability.
 
@@ -116,13 +142,17 @@ Economic Recovery and Prosperity:
 
 - Financial independence
 
+
 Foreign Trade:
+
 
 - Apply tariffs to level imports that equalize costs associated with US-mandated environmental, legal, and regulatory burdens.
 
 - Corporate tax rate equivalent to foreign industrialized nations
 
+
 Welfare:
+
 
 - Transfer all Federal programs to private charitable responsibility, e.g. Churches, service organizations, non-profits.
 
@@ -132,7 +162,9 @@ Welfare:
 
 - Divorce should be a lengthy and costly procedure unless with cause.
 
+
 Prisons:
+
 
 - Penitence should result from the penitentiary and corrections from corrections institutions.
 
@@ -140,21 +172,29 @@ Prisons:
 
 - Repayment of debt to the victims or society.
 
+
 Taxes:
+
 
 - 17% flat tax, Fair Tax, or National Sales Tax, to Provide for the common defense and promote the general welfare for ourselves and our posterity.
 
+
 Defense:
+
 
 - The President may use the Marines for police actions, but Congress should consider protracted actions.
 
+
 War on Terror:
+
 
 - Properly identify/name the enemy. Terror is a tactic, not an enemy.
 
 - Preach the Gospel to all nations. People should change their hearts willingly. America should exemplify the health, peace, and prosperity of living with Jesus Christ as our Lord.
 
+
 Borders:
+
 
 - Close the borders to illegal immigration
 
@@ -162,13 +202,17 @@ Borders:
 
 - The goal is leadership as a Godly nation, not unity and conformity.
 
+
 Language:
+
 
 - English only as our national language, with no dual language option
 
 - Schools, voting, phone messages, and product brochures, all in English
 
+
 Pro-Life:
+
 
 - A State’s rights issue. Let the people decide on issues of morality.
 
@@ -188,7 +232,9 @@ Pro-Life:
 
 - Repeal of no-fault divorce – recognize the effect and consequence of marital misbehavior.  Marriage is not just a business contract.
 
+
 Energy Independence:
+
 
 - Remove domestic drilling restrictions, drill in an ecologically sensitive manner
 
@@ -198,7 +244,9 @@ Energy Independence:
 
 - Methanol as a bridge fuel (“Energy Victory” by Robert Zubrin)
 
+
 Employment:
+
 
 - Investment in Godly countries and prosperity through nation building
 
@@ -206,7 +254,9 @@ Employment:
 
 - Nation Building through Missions, Energy, and Industrialization
 
+
 Environment:
+
 
 - Environmental Stewardship & Ecosystem Maintenance
 
@@ -222,7 +272,9 @@ Environment:
 
 - Encourage R&D and implementation of Solar-Desalinization Technologies
 
+
 Healthcare:
+
 
 - Medical Efficacy Evaluation of Alternative & Conventional Medical Treatment
 
@@ -232,7 +284,9 @@ Healthcare:
 
 - Discretionary Medical Savings Accounts to Access Alternative Care
 
+
 2nd Amendment:
+
 
 - Support for the Right to Bear Arms for defense against criminals and tyranny
 
@@ -240,7 +294,9 @@ Healthcare:
 
 - Local militia membership for all adults in defense of homeland – use Switzerland as a model
 
+
 Education:
+
 
 - Implement K-12 programs with proven success.
 
