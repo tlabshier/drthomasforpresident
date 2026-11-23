@@ -1,4 +1,20 @@
---- title: "Winning the Long War with Iran V.3" author: "Thomas Lee Abshier, ND" date: 2026-11-07 module: CEA secondary_modules: [CPP, CAP] domains: [theology, politics, biblical_studies] topics: [nuclear_physics, islam, governance, repentance, presidential_platform, marriage_family, war_peace, spiritual_warfare, education, sanctification, miracles, paul, constitutional_law, worship, old_testament] scripture: ["Leviticus 19:17", "Joshua 9:15", "2 Chronicles 7:14", "Psalm 15:4", "Proverbs 14:34", "Isaiah 64:6", "Matthew 7:3", "Matthew 11:28", "Matthew 7:16", "Matthew 6:10", "Luke 14:28", "Luke 14:32", "Romans 13:4", "Corinthians 10:4", "Galatians 4:9", "Ephesians 6:14", "2 Corinthians 10:4"] mentions: ["Jesus", "Christ", "Abraham", "Isaiah", "Paul", "George Washington", "Thomas Jefferson", "Donald Trump", "Michael"] status: ESTABLISHED type: essay source_url: "https://drthomasforpresident.com/2026/11/261107-winning-the-long-war-with-iran-v3/" wp_id: 4273 wp_slug: "261107-winning-the-long-war-with-iran-v3" wp_categories: ["Politics"] ---
+---
+title: "Winning the Long War with Iran V.3"
+author: "Thomas Lee Abshier, ND"
+date: 2026-11-07
+module: CEA
+secondary_modules: [CPP, CAP]
+domains: [theology, politics, biblical_studies]
+topics: [nuclear_physics, islam, governance, repentance, presidential_platform, marriage_family, war_peace, spiritual_warfare, education, sanctification, miracles, paul, constitutional_law, worship, old_testament]
+scripture: ["Leviticus 19:17", "Joshua 9:15", "2 Chronicles 7:14", "Psalm 15:4", "Proverbs 14:34", "Isaiah 64:6", "Matthew 7:3", "Matthew 11:28", "Matthew 7:16", "Matthew 6:10", "Luke 14:28", "Luke 14:32", "Romans 13:4", "Corinthians 10:4", "Galatians 4:9", "Ephesians 6:14", "2 Corinthians 10:4"]
+mentions: ["Jesus", "Christ", "Abraham", "Isaiah", "Paul", "George Washington", "Thomas Jefferson", "Donald Trump", "Michael"]
+status: ESTABLISHED
+type: essay
+source_url: "https://drthomasforpresident.com/2026/11/261107-winning-the-long-war-with-iran-v3/"
+wp_id: 4273
+wp_slug: "261107-winning-the-long-war-with-iran-v3"
+wp_categories: ["Politics"]
+---
 
 # 261107 - Winning the Long War with Iran V.4
 

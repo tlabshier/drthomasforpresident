@@ -1,4 +1,19 @@
---- title: "Hegseth Pending Impeachment Analyzed" author: "Thomas Lee Abshier, ND" date: 2026-11-10 module: CEA domains: [politics, theology, biblical_studies] topics: [constitutional_law, administrative_state, war_peace, suffering, presidential_platform, spiritual_warfare, old_testament, first_amendment, electoral_system, education] scripture: ["Deuteronomy 19:15", "Deuteronomy 21:7", "Proverbs 18:13"] thesis: "Impeachment Without Inquiry: The Hegseth Articles and the Duty Congress Keeps Avoiding A position paper · November 10, 2026 Source article: The latest: Hegseth slams his potential impeachment as a political spectacle as House vote looms Where I..." status: ESTABLISHED type: essay source_url: "https://drthomasforpresident.com/2026/11/261110-hegseth-pending-impeachment-analyzed/" wp_id: 4330 wp_slug: "261110-hegseth-pending-impeachment-analyzed" wp_categories: ["Politics"] ---
+---
+title: "Hegseth Pending Impeachment Analyzed"
+author: "Thomas Lee Abshier, ND"
+date: 2026-11-10
+module: CEA
+domains: [politics, theology, biblical_studies]
+topics: [constitutional_law, administrative_state, war_peace, suffering, presidential_platform, spiritual_warfare, old_testament, first_amendment, electoral_system, education]
+scripture: ["Deuteronomy 19:15", "Deuteronomy 21:7", "Proverbs 18:13"]
+thesis: "Impeachment Without Inquiry: The Hegseth Articles and the Duty Congress Keeps Avoiding A position paper · November 10, 2026 Source article: The latest: Hegseth slams his potential impeachment as a political spectacle as House vote looms Where I..."
+status: ESTABLISHED
+type: essay
+source_url: "https://drthomasforpresident.com/2026/11/261110-hegseth-pending-impeachment-analyzed/"
+wp_id: 4330
+wp_slug: "261110-hegseth-pending-impeachment-analyzed"
+wp_categories: ["Politics"]
+---
 
 # 261110 - Hegseth Pending Impeachment Analyzed
 
